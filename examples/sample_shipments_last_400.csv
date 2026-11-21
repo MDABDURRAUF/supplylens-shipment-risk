@@ -1,0 +1,401 @@
+shipment_id,ship_date,promised_date,delivery_date,carrier,mode,service,origin,origin_state,destination,dest_state,distance_miles,weight_lbs,value_usd,weather_risk
+SH-126733,2026-06-17,2026-06-19,2026-06-18,SwiftParcel,parcel,expedited,Memphis,TN,Atlanta,GA,397.0,36.0,406.53,0.221
+SH-126734,2026-06-17,2026-06-23,2026-06-23,BlueRoute LTL,LTL,standard,Newark,NJ,Miami,FL,1288.0,555.0,1419.8,0.116
+SH-126735,2026-06-17,2026-06-21,2026-06-22,BlueRoute LTL,LTL,standard,Chicago,IL,Atlanta,GA,695.0,1352.0,5023.59,0.153
+SH-126736,2026-06-17,2026-06-23,2026-06-24,BlueRoute LTL,LTL,standard,Atlanta,GA,Denver,CO,1428.0,587.0,2541.46,0.144
+SH-126737,2026-06-17,2026-06-20,2026-06-20,AeroCargo,air,standard,Kansas City,MO,Los Angeles,CA,1598.0,475.0,25516.58,0.222
+SH-126738,2026-06-17,2026-06-21,2026-06-21,SwiftParcel,parcel,standard,Miami,FL,Columbus,OH,1173.0,14.0,151.74,0.135
+SH-126739,2026-06-17,2026-06-24,2026-06-23,BlueRoute LTL,LTL,standard,Dallas,TX,Newark,NJ,1608.0,2435.0,6061.62,0.0
+SH-126740,2026-06-17,2026-06-23,2026-06-24,IronRail Intermodal,intermodal rail,standard,Philadelphia,PA,Chicago,IL,783.0,19332.0,29303.44,0.114
+SH-126741,2026-06-17,2026-06-22,2026-06-22,IronRail Intermodal,intermodal rail,standard,Memphis,TN,Chicago,IL,570.0,22474.0,40513.35,0.077
+SH-126742,2026-06-17,2026-06-19,2026-06-19,BlueRoute LTL,LTL,expedited,Newark,NJ,Boston,MA,231.0,1019.0,3909.1,0.014
+SH-126743,2026-06-17,2026-06-21,2026-06-20,Summit Freight,truckload,standard,Boston,MA,Nashville,TN,1111.0,18408.0,62496.8,0.05
+SH-126744,2026-06-17,2026-06-21,2026-06-21,Summit Freight,truckload,standard,Philadelphia,PA,Miami,FL,1206.0,17810.0,37976.89,0.102
+SH-126745,2026-06-17,2026-06-19,2026-06-20,Prairie Lines,truckload,standard,Charlotte,NC,Columbus,OH,410.0,28016.0,53690.13,0.133
+SH-126746,2026-06-17,2026-06-21,2026-06-21,BlueRoute LTL,LTL,standard,Detroit,MI,Philadelphia,PA,521.0,3033.0,8676.78,0.043
+SH-126747,2026-06-17,2026-06-23,2026-06-22,NorthStar Parcel,parcel,standard,Boston,MA,Houston,TX,1893.0,13.0,211.02,0.034
+SH-126748,2026-06-17,2026-06-20,2026-06-20,SwiftParcel,parcel,standard,Atlanta,GA,Dallas,TX,849.0,4.0,76.24,0.032
+SH-126749,2026-06-17,2026-06-25,2026-06-26,IronRail Intermodal,intermodal rail,standard,Dallas,TX,Los Angeles,CA,1460.0,23184.0,18960.05,0.054
+SH-126750,2026-06-17,2026-06-20,2026-06-21,Prairie Lines,truckload,standard,Houston,TX,Chicago,IL,1112.0,10854.0,19524.23,0.102
+SH-126751,2026-06-17,2026-06-26,2026-06-28,IronRail Intermodal,intermodal rail,standard,Atlanta,GA,Phoenix,AZ,1874.0,28098.0,57205.69,0.019
+SH-126752,2026-06-17,2026-06-21,2026-06-22,Coastal LTL,LTL,standard,Atlanta,GA,Chicago,IL,695.0,872.0,2418.19,0.081
+SH-126753,2026-06-17,2026-06-20,2026-06-20,SwiftParcel,parcel,standard,Newark,NJ,Chicago,IL,829.0,32.0,1133.72,0.064
+SH-126754,2026-06-17,2026-06-19,2026-06-19,Prairie Lines,truckload,standard,Atlanta,GA,Columbus,OH,514.0,16669.0,39375.09,0.173
+SH-126755,2026-06-17,2026-06-26,2026-06-26,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Houston,TX,1665.0,11029.0,11921.64,0.034
+SH-126756,2026-06-17,2026-06-20,2026-06-21,Prairie Lines,truckload,standard,Houston,TX,Miami,FL,1142.0,16915.0,30300.52,0.258
+SH-126757,2026-06-17,2026-06-23,2026-06-25,Coastal LTL,LTL,expedited,Seattle,WA,Chicago,IL,2045.0,2237.0,14570.12,0.16
+SH-126758,2026-06-17,2026-06-19,2026-06-19,SwiftParcel,parcel,expedited,Detroit,MI,Chicago,IL,279.0,11.0,156.88,0.123
+SH-126759,2026-06-17,2026-06-22,2026-06-23,IronRail Intermodal,intermodal rail,standard,Philadelphia,PA,Columbus,OH,489.0,29561.0,25375.13,0.112
+SH-126760,2026-06-17,2026-06-23,2026-06-22,BlueRoute LTL,LTL,standard,Newark,NJ,Miami,FL,1288.0,937.0,1380.56,0.032
+SH-126761,2026-06-17,2026-06-28,2026-06-23,IronRail Intermodal,intermodal rail,standard,Detroit,MI,Seattle,WA,2281.0,12554.0,14779.08,0.105
+SH-126762,2026-06-17,2026-06-21,2026-06-21,Summit Freight,truckload,expedited,Kansas City,MO,Seattle,WA,1773.0,17760.0,29863.47,0.233
+SH-126763,2026-06-18,2026-06-21,2026-06-20,NorthStar Parcel,parcel,standard,Newark,NJ,Charlotte,NC,621.0,14.0,180.62,0.104
+SH-126764,2026-06-18,2026-06-25,2026-06-25,Prairie Lines,truckload,standard,Los Angeles,CA,Boston,MA,3057.0,13065.0,39419.47,0.222
+SH-126765,2026-06-18,2026-06-27,2026-06-27,BlueRoute LTL,LTL,standard,Salt Lake City,UT,Newark,NJ,2311.0,1501.0,5018.79,0.046
+SH-126766,2026-06-18,2026-06-27,2026-06-28,Coastal LTL,LTL,standard,Miami,FL,Los Angeles,CA,2756.0,3509.0,13269.59,0.084
+SH-126767,2026-06-18,2026-06-29,2026-06-26,IronRail Intermodal,intermodal rail,standard,Phoenix,AZ,Philadelphia,PA,2451.0,20333.0,35153.29,0.133
+SH-126768,2026-06-18,2026-06-22,2026-06-21,NorthStar Parcel,parcel,standard,Dallas,TX,Denver,CO,782.0,17.0,351.28,0.047
+SH-126769,2026-06-18,2026-06-20,2026-06-19,Summit Freight,truckload,standard,Detroit,MI,Chicago,IL,279.0,20005.0,79261.77,0.186
+SH-126770,2026-06-18,2026-06-23,2026-06-24,IronRail Intermodal,intermodal rail,standard,Atlanta,GA,Miami,FL,716.0,54762.0,75895.14,0.187
+SH-126771,2026-06-18,2026-06-22,2026-06-22,BlueRoute LTL,LTL,standard,Detroit,MI,Philadelphia,PA,521.0,5299.0,18542.04,0.214
+SH-126772,2026-06-18,2026-06-21,2026-06-22,Prairie Lines,truckload,standard,Dallas,TX,Atlanta,GA,849.0,34118.0,25334.25,0.129
+SH-126773,2026-06-18,2026-06-21,2026-06-22,Prairie Lines,truckload,standard,Houston,TX,Chicago,IL,1112.0,19827.0,44095.78,0.157
+SH-126774,2026-06-18,2026-06-24,2026-06-25,IronRail Intermodal,intermodal rail,standard,Minneapolis,MN,Memphis,TN,826.0,36964.0,28538.27,0.051
+SH-126775,2026-06-18,2026-06-22,2026-06-21,SwiftParcel,parcel,standard,Chicago,IL,Dallas,TX,950.0,17.0,56.39,0.0
+SH-126776,2026-06-18,2026-06-24,2026-06-22,IronRail Intermodal,intermodal rail,standard,Dallas,TX,Phoenix,AZ,1043.0,31581.0,35825.03,0.126
+SH-126777,2026-06-18,2026-06-21,2026-06-20,NorthStar Parcel,parcel,standard,Kansas City,MO,Dallas,TX,536.0,16.0,328.51,0.103
+SH-126778,2026-06-18,2026-06-20,2026-06-20,AeroCargo,air,standard,Kansas City,MO,Atlanta,GA,797.0,816.0,13655.99,0.094
+SH-126779,2026-06-18,2026-06-26,2026-06-27,SwiftParcel,parcel,standard,Los Angeles,CA,Philadelphia,PA,2818.0,3.0,44.18,0.0
+SH-126780,2026-06-18,2026-06-22,2026-06-24,Coastal LTL,LTL,standard,Nashville,TN,Houston,TX,785.0,4737.0,28643.44,0.145
+SH-126781,2026-06-18,2026-06-30,2026-06-28,IronRail Intermodal,intermodal rail,standard,Seattle,WA,Newark,NJ,2824.0,13425.0,27390.78,0.099
+SH-126782,2026-06-18,2026-06-21,2026-06-22,NorthStar Parcel,parcel,standard,Atlanta,GA,Miami,FL,716.0,13.0,285.48,0.221
+SH-126783,2026-06-18,2026-06-25,2026-06-27,Coastal LTL,LTL,standard,Phoenix,AZ,Columbus,OH,1963.0,1087.0,3386.88,0.32
+SH-126784,2026-06-18,2026-06-22,2026-06-21,BlueRoute LTL,LTL,expedited,Miami,FL,Atlanta,GA,716.0,815.0,2420.31,0.22
+SH-126785,2026-06-18,2026-06-23,2026-06-23,Prairie Lines,truckload,standard,Chicago,IL,Seattle,WA,2045.0,16007.0,20176.53,0.139
+SH-126786,2026-06-18,2026-06-24,2026-06-24,BlueRoute LTL,LTL,standard,Chicago,IL,Miami,FL,1406.0,612.0,1373.37,0.161
+SH-126787,2026-06-18,2026-06-24,2026-06-24,IronRail Intermodal,intermodal rail,standard,Atlanta,GA,Philadelphia,PA,785.0,16164.0,20215.46,0.166
+SH-126788,2026-06-18,2026-06-23,2026-06-22,Prairie Lines,truckload,standard,Salt Lake City,UT,Detroit,MI,1756.0,20741.0,40660.05,0.052
+SH-126789,2026-06-18,2026-06-22,2026-06-21,SwiftParcel,parcel,standard,Denver,CO,Los Angeles,CA,979.0,10.0,119.38,0.178
+SH-126790,2026-06-18,2026-06-23,2026-06-22,BlueRoute LTL,LTL,standard,Atlanta,GA,Newark,NJ,873.0,1199.0,10418.81,0.0
+SH-126791,2026-06-18,2026-06-23,2026-06-25,Coastal LTL,LTL,standard,Denver,CO,Houston,TX,1037.0,965.0,3204.54,0.0
+SH-126792,2026-06-18,2026-06-22,2026-06-21,AeroCargo,air,standard,Newark,NJ,Los Angeles,CA,2875.0,590.0,12792.28,0.0
+SH-126793,2026-06-18,2026-06-22,2026-06-22,SwiftParcel,parcel,standard,Newark,NJ,Atlanta,GA,873.0,28.0,202.4,0.0
+SH-126794,2026-06-18,2026-06-21,2026-06-20,AeroCargo,air,standard,Denver,CO,Seattle,WA,1203.0,421.0,15523.15,0.229
+SH-126795,2026-06-18,2026-06-21,2026-06-20,Summit Freight,truckload,standard,Denver,CO,Kansas City,MO,657.0,17389.0,42662.6,0.143
+SH-126796,2026-06-18,2026-06-21,2026-06-22,Prairie Lines,truckload,standard,Chicago,IL,Philadelphia,PA,783.0,8126.0,12587.77,0.0
+SH-126797,2026-06-18,2026-06-20,2026-06-20,AeroCargo,air,expedited,Minneapolis,MN,Houston,TX,1248.0,283.0,14047.77,0.114
+SH-126798,2026-06-18,2026-06-21,2026-06-21,AeroCargo,air,standard,Newark,NJ,Dallas,TX,1608.0,993.0,63005.73,0.0
+SH-126799,2026-06-18,2026-06-21,2026-06-21,SwiftParcel,parcel,expedited,Atlanta,GA,Minneapolis,MN,1072.0,3.0,70.05,0.028
+SH-126800,2026-06-18,2026-06-21,2026-06-22,BlueRoute LTL,LTL,standard,Atlanta,GA,Memphis,TN,397.0,2876.0,14839.78,0.177
+SH-126801,2026-06-18,2026-06-21,2026-06-21,Summit Freight,truckload,standard,Atlanta,GA,Newark,NJ,873.0,23749.0,29221.42,0.086
+SH-126802,2026-06-18,2026-06-20,2026-06-21,SwiftParcel,parcel,standard,Newark,NJ,Boston,MA,231.0,2.0,19.31,0.0
+SH-126803,2026-06-18,2026-06-27,2026-06-30,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Denver,CO,1910.0,20285.0,32318.02,0.1
+SH-126804,2026-06-18,2026-06-23,2026-06-22,NorthStar Parcel,parcel,standard,Denver,CO,Columbus,OH,1373.0,24.0,318.79,0.199
+SH-126805,2026-06-18,2026-06-20,2026-06-19,Summit Freight,truckload,expedited,Denver,CO,Phoenix,AZ,691.0,22175.0,68101.49,0.076
+SH-126806,2026-06-18,2026-06-20,2026-06-20,Summit Freight,truckload,standard,Phoenix,AZ,Los Angeles,CA,421.0,16996.0,42128.23,0.26
+SH-126807,2026-06-18,2026-06-21,2026-06-22,Coastal LTL,LTL,standard,Dallas,TX,Memphis,TN,496.0,2315.0,9722.84,0.152
+SH-126808,2026-06-19,2026-06-23,2026-06-24,Coastal LTL,LTL,expedited,Los Angeles,CA,Seattle,WA,1134.0,1342.0,3689.87,0.176
+SH-126809,2026-06-19,2026-06-23,2026-06-23,NorthStar Parcel,parcel,standard,Newark,NJ,Chicago,IL,829.0,77.0,882.36,0.353
+SH-126810,2026-06-19,2026-06-22,2026-06-22,BlueRoute LTL,LTL,standard,Columbus,OH,Nashville,TN,393.0,719.0,2194.54,0.087
+SH-126811,2026-06-19,2026-06-21,2026-06-21,SwiftParcel,parcel,standard,Houston,TX,Dallas,TX,266.0,48.0,693.15,0.139
+SH-126812,2026-06-19,2026-06-21,2026-06-21,Prairie Lines,truckload,standard,Dallas,TX,Memphis,TN,496.0,27379.0,81072.93,0.047
+SH-126813,2026-06-19,2026-06-21,2026-06-21,Prairie Lines,truckload,standard,Atlanta,GA,Columbus,OH,514.0,17864.0,19873.2,0.116
+SH-126814,2026-06-19,2026-06-25,2026-06-26,NorthStar Parcel,parcel,standard,Salt Lake City,UT,Columbus,OH,1788.0,25.0,332.81,0.115
+SH-126815,2026-06-19,2026-06-21,2026-06-21,NorthStar Parcel,parcel,standard,Chicago,IL,Detroit,MI,279.0,33.0,679.8,0.032
+SH-126816,2026-06-19,2026-06-30,,IronRail Intermodal,intermodal rail,standard,Philadelphia,PA,Salt Lake City,UT,2266.0,24636.0,35476.73,0.039
+SH-126817,2026-06-19,2026-06-22,2026-06-22,Prairie Lines,truckload,standard,Denver,CO,Los Angeles,CA,979.0,14278.0,30854.9,0.083
+SH-126818,2026-06-19,2026-06-22,2026-06-21,AeroCargo,air,standard,Newark,NJ,Denver,CO,1910.0,808.0,18220.43,0.075
+SH-126819,2026-06-19,2026-06-24,2026-06-24,BlueRoute LTL,LTL,standard,Boston,MA,Chicago,IL,1001.0,677.0,3239.01,0.168
+SH-126820,2026-06-19,2026-06-24,2026-06-22,BlueRoute LTL,LTL,standard,Dallas,TX,Atlanta,GA,849.0,4717.0,18304.03,0.091
+SH-126821,2026-06-19,2026-06-23,2026-06-22,Summit Freight,truckload,standard,Houston,TX,Denver,CO,1037.0,14294.0,21679.2,0.158
+SH-126822,2026-06-19,2026-06-22,2026-06-22,Summit Freight,truckload,expedited,Minneapolis,MN,Nashville,TN,823.0,26951.0,67929.77,0.213
+SH-126823,2026-06-19,2026-06-25,2026-06-25,IronRail Intermodal,intermodal rail,standard,Houston,TX,Atlanta,GA,827.0,19972.0,18916.42,0.151
+SH-126824,2026-06-19,2026-06-21,2026-06-21,SwiftParcel,parcel,expedited,Dallas,TX,Houston,TX,266.0,33.0,302.88,0.068
+SH-126825,2026-06-19,2026-06-21,2026-06-22,Prairie Lines,truckload,expedited,Chicago,IL,Minneapolis,MN,419.0,36663.0,100141.07,0.161
+SH-126826,2026-06-19,2026-07-03,,IronRail Intermodal,intermodal rail,standard,Miami,FL,Seattle,WA,3224.0,20003.0,45570.14,0.087
+SH-126827,2026-06-19,2026-07-03,2026-06-28,IronRail Intermodal,intermodal rail,standard,Miami,FL,Seattle,WA,3224.0,21720.0,33698.17,0.263
+SH-126828,2026-06-19,2026-06-24,2026-06-24,Summit Freight,truckload,expedited,Salt Lake City,UT,Newark,NJ,2311.0,13388.0,42434.2,0.042
+SH-126829,2026-06-19,2026-06-21,2026-06-21,AeroCargo,air,standard,Chicago,IL,Philadelphia,PA,783.0,146.0,8758.26,0.01
+SH-126830,2026-06-19,2026-06-24,2026-06-23,Summit Freight,truckload,standard,Houston,TX,Newark,NJ,1665.0,28783.0,90497.6,0.019
+SH-126831,2026-06-19,2026-06-25,2026-06-25,IronRail Intermodal,intermodal rail,standard,Chicago,IL,Newark,NJ,829.0,25477.0,27901.8,0.164
+SH-126832,2026-06-19,2026-06-22,2026-06-22,Prairie Lines,truckload,expedited,Denver,CO,Houston,TX,1037.0,13910.0,20532.76,0.047
+SH-126833,2026-06-19,2026-06-23,2026-06-24,Prairie Lines,truckload,standard,Dallas,TX,Los Angeles,CA,1460.0,16732.0,27601.77,0.081
+SH-126834,2026-06-19,2026-06-25,2026-06-23,IronRail Intermodal,intermodal rail,standard,Philadelphia,PA,Nashville,TN,806.0,27657.0,30383.89,0.064
+SH-126835,2026-06-19,2026-06-22,2026-06-21,BlueRoute LTL,LTL,standard,Houston,TX,Dallas,TX,266.0,1111.0,2964.23,0.0
+SH-126836,2026-06-19,2026-06-21,2026-06-20,Summit Freight,truckload,standard,Newark,NJ,Philadelphia,PA,89.0,30586.0,74243.08,0.165
+SH-126837,2026-06-19,2026-06-28,2026-06-25,IronRail Intermodal,intermodal rail,standard,Columbus,OH,Salt Lake City,UT,1788.0,21734.0,34319.96,0.125
+SH-126838,2026-06-19,2026-06-27,2026-06-27,IronRail Intermodal,intermodal rail,standard,Denver,CO,Charlotte,NC,1600.0,28290.0,26566.66,0.119
+SH-126839,2026-06-19,2026-06-26,2026-06-26,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Miami,FL,1288.0,24793.0,24117.16,0.363
+SH-126840,2026-06-19,2026-06-25,2026-06-25,Coastal LTL,LTL,standard,Atlanta,GA,Denver,CO,1428.0,1184.0,3486.38,0.163
+SH-126841,2026-06-19,2026-06-22,2026-06-22,BlueRoute LTL,LTL,expedited,Charlotte,NC,Newark,NJ,621.0,2060.0,5588.77,0.053
+SH-126842,2026-06-19,2026-06-22,2026-06-21,AeroCargo,air,standard,Houston,TX,Los Angeles,CA,1617.0,599.0,27091.01,0.024
+SH-126843,2026-06-19,2026-06-22,2026-06-21,AeroCargo,air,standard,Dallas,TX,Miami,FL,1310.0,274.0,9292.05,0.048
+SH-126844,2026-06-19,2026-06-23,2026-06-22,NorthStar Parcel,parcel,standard,Chicago,IL,Newark,NJ,829.0,24.0,553.73,0.093
+SH-126845,2026-06-19,2026-06-21,2026-06-22,Prairie Lines,truckload,standard,Minneapolis,MN,Chicago,IL,419.0,16511.0,50683.58,0.207
+SH-126846,2026-06-19,2026-06-25,2026-06-26,Coastal LTL,LTL,standard,Newark,NJ,Dallas,TX,1608.0,2238.0,5889.38,0.128
+SH-126847,2026-06-19,2026-07-01,2026-06-26,IronRail Intermodal,intermodal rail,standard,Seattle,WA,Atlanta,GA,2570.0,20031.0,17999.74,0.365
+SH-126848,2026-06-20,2026-06-25,2026-06-24,Summit Freight,truckload,expedited,Philadelphia,PA,Phoenix,AZ,2451.0,13880.0,26414.44,0.025
+SH-126849,2026-06-20,2026-06-28,2026-06-30,Coastal LTL,LTL,standard,Los Angeles,CA,Detroit,MI,2335.0,3293.0,5206.17,0.114
+SH-126850,2026-06-20,2026-06-25,2026-06-22,IronRail Intermodal,intermodal rail,standard,Charlotte,NC,Philadelphia,PA,531.0,38242.0,36633.52,0.007
+SH-126851,2026-06-20,2026-06-25,2026-06-25,SwiftParcel,parcel,standard,Los Angeles,CA,Houston,TX,1617.0,81.0,2065.28,0.313
+SH-126852,2026-06-20,2026-06-23,2026-06-21,Summit Freight,truckload,standard,Detroit,MI,Nashville,TN,555.0,15686.0,20561.96,0.204
+SH-126853,2026-06-20,2026-06-30,2026-06-29,IronRail Intermodal,intermodal rail,standard,Miami,FL,Denver,CO,2036.0,19102.0,12683.52,0.181
+SH-126854,2026-06-20,2026-06-25,2026-06-25,IronRail Intermodal,intermodal rail,standard,Charlotte,NC,Chicago,IL,693.0,25122.0,49579.84,0.149
+SH-126855,2026-06-20,2026-06-23,2026-06-22,Summit Freight,truckload,standard,Chicago,IL,Newark,NJ,829.0,22047.0,58629.28,0.042
+SH-126856,2026-06-20,2026-06-24,2026-06-23,BlueRoute LTL,LTL,standard,Philadelphia,PA,Chicago,IL,783.0,1596.0,3529.51,0.0
+SH-126857,2026-06-20,2026-06-24,2026-06-23,Summit Freight,truckload,standard,Houston,TX,Phoenix,AZ,1196.0,17634.0,44292.26,0.085
+SH-126858,2026-06-20,2026-06-24,2026-06-24,BlueRoute LTL,LTL,standard,Atlanta,GA,Chicago,IL,695.0,268.0,659.65,0.038
+SH-126859,2026-06-20,2026-06-24,2026-06-23,BlueRoute LTL,LTL,standard,Memphis,TN,Dallas,TX,496.0,4116.0,16261.62,0.023
+SH-126860,2026-06-20,2026-06-23,2026-06-22,BlueRoute LTL,LTL,standard,Nashville,TN,Memphis,TN,232.0,517.0,1313.77,0.088
+SH-126861,2026-06-20,2026-06-23,2026-06-23,Coastal LTL,LTL,standard,Boston,MA,Philadelphia,PA,320.0,2577.0,10995.29,0.0
+SH-126862,2026-06-21,2026-06-24,2026-06-23,AeroCargo,air,standard,Houston,TX,Boston,MA,1893.0,103.0,2391.15,0.0
+SH-126863,2026-06-21,2026-06-26,2026-06-25,BlueRoute LTL,LTL,standard,Los Angeles,CA,Denver,CO,979.0,3773.0,11420.93,0.003
+SH-126864,2026-06-21,2026-06-24,2026-06-24,Coastal LTL,LTL,standard,Minneapolis,MN,Chicago,IL,419.0,1406.0,4021.12,0.24
+SH-126865,2026-06-21,2026-06-24,2026-06-23,AeroCargo,air,standard,Philadelphia,PA,Phoenix,AZ,2451.0,1180.0,24271.84,0.05
+SH-126866,2026-06-21,2026-06-27,2026-06-26,BlueRoute LTL,LTL,expedited,Los Angeles,CA,Minneapolis,MN,1795.0,1740.0,1469.57,0.028
+SH-126867,2026-06-21,2026-07-01,,Coastal LTL,LTL,standard,Newark,NJ,Seattle,WA,2824.0,2091.0,4808.92,0.0
+SH-126868,2026-06-22,2026-07-04,,IronRail Intermodal,intermodal rail,standard,Philadelphia,PA,Los Angeles,CA,2818.0,17582.0,24662.48,0.068
+SH-126869,2026-06-22,2026-06-26,2026-06-24,AeroCargo,air,standard,Los Angeles,CA,Philadelphia,PA,2818.0,449.0,11280.59,0.146
+SH-126870,2026-06-22,2026-06-25,2026-06-23,Summit Freight,truckload,expedited,Seattle,WA,Salt Lake City,UT,826.0,20822.0,13347.93,0.0
+SH-126871,2026-06-22,2026-06-29,2026-06-28,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Kansas City,MO,1280.0,27110.0,14022.73,0.14
+SH-126872,2026-06-22,2026-06-25,2026-06-25,AeroCargo,air,standard,Nashville,TN,Los Angeles,CA,2096.0,245.0,3751.53,0.288
+SH-126873,2026-06-22,2026-06-25,2026-06-23,BlueRoute LTL,LTL,standard,Chicago,IL,Detroit,MI,279.0,2361.0,5790.38,0.0
+SH-126874,2026-06-22,2026-06-28,2026-06-27,Prairie Lines,truckload,standard,Newark,NJ,Salt Lake City,UT,2311.0,10597.0,13926.98,0.044
+SH-126875,2026-06-22,2026-06-24,2026-06-26,AeroCargo,air,standard,Houston,TX,Nashville,TN,785.0,107.0,1781.84,0.584
+SH-126876,2026-06-22,2026-06-26,2026-06-25,IronRail Intermodal,intermodal rail,standard,Minneapolis,MN,Chicago,IL,419.0,22261.0,25728.77,0.115
+SH-126877,2026-06-22,2026-06-27,,IronRail Intermodal,intermodal rail,standard,Nashville,TN,Dallas,TX,727.0,28750.0,61306.95,0.501
+SH-126878,2026-06-22,2026-06-29,,Coastal LTL,LTL,standard,Los Angeles,CA,Memphis,TN,1888.0,1607.0,7481.44,0.366
+SH-126879,2026-06-22,2026-06-26,2026-06-24,Prairie Lines,truckload,standard,Minneapolis,MN,Houston,TX,1248.0,17420.0,29022.28,0.311
+SH-126880,2026-06-22,2026-06-25,2026-06-25,Summit Freight,truckload,standard,Atlanta,GA,Newark,NJ,873.0,16328.0,23535.54,0.189
+SH-126881,2026-06-22,2026-06-29,2026-06-27,NorthStar Parcel,parcel,standard,Denver,CO,Boston,MA,2083.0,46.0,625.03,0.181
+SH-126882,2026-06-22,2026-06-25,2026-06-24,Summit Freight,truckload,standard,Phoenix,AZ,Salt Lake City,UT,596.0,11308.0,25506.23,0.063
+SH-126883,2026-06-22,2026-06-25,2026-06-25,NorthStar Parcel,parcel,expedited,Dallas,TX,Nashville,TN,727.0,44.0,676.19,0.454
+SH-126884,2026-06-22,2026-06-27,2026-06-27,BlueRoute LTL,LTL,standard,Dallas,TX,Columbus,OH,1077.0,2608.0,17345.27,0.221
+SH-126885,2026-06-22,2026-06-25,2026-06-24,AeroCargo,air,standard,Houston,TX,Chicago,IL,1112.0,453.0,17896.74,0.293
+SH-126886,2026-06-22,2026-06-29,2026-06-30,IronRail Intermodal,intermodal rail,standard,Chicago,IL,Denver,CO,1083.0,18363.0,13269.48,0.153
+SH-126887,2026-06-22,2026-06-25,2026-06-24,AeroCargo,air,standard,Houston,TX,Newark,NJ,1665.0,274.0,13686.33,0.326
+SH-126888,2026-06-22,2026-06-27,2026-06-27,IronRail Intermodal,intermodal rail,standard,Houston,TX,Memphis,TN,572.0,15105.0,14816.83,0.533
+SH-126889,2026-06-22,2026-06-24,2026-06-23,AeroCargo,air,standard,Chicago,IL,Minneapolis,MN,419.0,139.0,3366.26,0.072
+SH-126890,2026-06-22,2026-06-26,2026-06-25,SwiftParcel,parcel,standard,Houston,TX,Chicago,IL,1112.0,70.0,804.66,0.443
+SH-126891,2026-06-22,2026-06-27,2026-06-26,Summit Freight,truckload,standard,Philadelphia,PA,Denver,CO,1858.0,14681.0,71497.93,0.033
+SH-126892,2026-06-22,2026-06-29,2026-06-29,Summit Freight,truckload,standard,Charlotte,NC,Los Angeles,CA,2496.0,15754.0,40999.38,0.446
+SH-126893,2026-06-22,2026-06-25,2026-06-25,Coastal LTL,LTL,expedited,Newark,NJ,Detroit,MI,557.0,2212.0,6465.78,0.068
+SH-126894,2026-06-22,2026-06-25,2026-06-25,Prairie Lines,truckload,standard,Chicago,IL,Dallas,TX,950.0,21944.0,44308.91,0.351
+SH-126895,2026-06-22,2026-06-25,2026-06-25,Summit Freight,truckload,standard,Dallas,TX,Chicago,IL,950.0,21135.0,29760.32,0.294
+SH-126896,2026-06-22,2026-07-01,2026-06-29,NorthStar Parcel,parcel,standard,Los Angeles,CA,Boston,MA,3057.0,14.0,185.25,0.127
+SH-126897,2026-06-22,2026-06-25,2026-06-25,SwiftParcel,parcel,standard,Columbus,OH,Kansas City,MO,731.0,3.0,69.21,0.138
+SH-126898,2026-06-22,2026-06-26,2026-06-28,Coastal LTL,LTL,standard,Atlanta,GA,Houston,TX,827.0,497.0,786.07,0.595
+SH-126899,2026-06-22,2026-06-24,2026-06-24,AeroCargo,air,standard,Atlanta,GA,Philadelphia,PA,785.0,326.0,7816.17,0.262
+SH-126900,2026-06-22,2026-06-26,2026-06-26,Prairie Lines,truckload,standard,Salt Lake City,UT,Dallas,TX,1178.0,15330.0,67081.83,0.272
+SH-126901,2026-06-22,2026-06-27,2026-06-27,Coastal LTL,LTL,standard,Newark,NJ,Minneapolis,MN,1189.0,390.0,1332.36,0.093
+SH-126902,2026-06-22,2026-06-26,2026-06-25,BlueRoute LTL,LTL,standard,Charlotte,NC,Philadelphia,PA,531.0,2127.0,11554.68,0.434
+SH-126903,2026-06-22,2026-06-27,2026-06-27,SwiftParcel,parcel,expedited,Miami,FL,Denver,CO,2036.0,10.0,151.55,0.246
+SH-126904,2026-06-22,2026-06-29,2026-06-28,Summit Freight,truckload,expedited,Miami,FL,Seattle,WA,3224.0,17113.0,46930.34,0.343
+SH-126905,2026-06-22,2026-06-25,2026-06-24,AeroCargo,air,standard,Atlanta,GA,Denver,CO,1428.0,663.0,15678.3,0.375
+SH-126906,2026-06-23,2026-06-29,2026-06-27,IronRail Intermodal,intermodal rail,standard,Philadelphia,PA,Chicago,IL,783.0,27812.0,48420.07,0.037
+SH-126907,2026-06-23,2026-06-29,2026-06-29,Coastal LTL,LTL,expedited,Denver,CO,Miami,FL,2036.0,1649.0,4148.57,0.065
+SH-126908,2026-06-23,2026-06-26,2026-06-25,AeroCargo,air,standard,Philadelphia,PA,Dallas,TX,1531.0,189.0,13984.06,0.213
+SH-126909,2026-06-23,2026-06-28,2026-06-27,SwiftParcel,parcel,standard,Salt Lake City,UT,Memphis,TN,1472.0,22.0,243.73,0.385
+SH-126910,2026-06-23,2026-06-27,2026-06-28,SwiftParcel,parcel,standard,Miami,FL,Memphis,TN,1031.0,13.0,163.51,0.493
+SH-126911,2026-06-23,2026-06-29,2026-06-28,Coastal LTL,LTL,standard,Philadelphia,PA,Houston,TX,1581.0,663.0,2383.42,0.06
+SH-126912,2026-06-23,2026-06-27,2026-06-28,Prairie Lines,truckload,standard,Dallas,TX,Newark,NJ,1608.0,11658.0,33649.85,0.323
+SH-126913,2026-06-23,2026-06-25,2026-06-25,Coastal LTL,LTL,expedited,Boston,MA,Newark,NJ,231.0,3767.0,4181.12,0.2
+SH-126914,2026-06-23,2026-06-26,2026-06-27,NorthStar Parcel,parcel,expedited,Memphis,TN,Houston,TX,572.0,34.0,623.13,0.534
+SH-126915,2026-06-23,2026-06-28,2026-06-27,Coastal LTL,LTL,standard,Philadelphia,PA,Memphis,TN,1037.0,831.0,1708.34,0.181
+SH-126916,2026-06-23,2026-06-26,2026-06-25,SwiftParcel,parcel,standard,Columbus,OH,Memphis,TN,601.0,32.0,561.05,0.203
+SH-126917,2026-06-23,2026-06-28,2026-06-27,Summit Freight,truckload,standard,Salt Lake City,UT,Detroit,MI,1756.0,16208.0,82677.94,0.149
+SH-126918,2026-06-23,2026-06-27,2026-06-25,SwiftParcel,parcel,expedited,Chicago,IL,Salt Lake City,UT,1483.0,48.0,420.28,0.099
+SH-126919,2026-06-23,2026-06-25,2026-06-24,Prairie Lines,truckload,standard,Chicago,IL,Detroit,MI,279.0,32439.0,56182.19,0.045
+SH-126920,2026-06-23,2026-06-26,2026-06-26,Summit Freight,truckload,standard,Charlotte,NC,Boston,MA,850.0,19312.0,64295.88,0.292
+SH-126921,2026-06-23,2026-06-30,2026-06-28,IronRail Intermodal,intermodal rail,standard,Houston,TX,Minneapolis,MN,1248.0,22196.0,51602.48,0.191
+SH-126922,2026-06-23,2026-06-28,2026-06-26,SwiftParcel,parcel,expedited,Seattle,WA,Chicago,IL,2045.0,14.0,444.91,0.026
+SH-126923,2026-06-23,2026-06-27,2026-06-26,NorthStar Parcel,parcel,expedited,Chicago,IL,Denver,CO,1083.0,18.0,426.68,0.055
+SH-126924,2026-06-23,2026-06-25,2026-06-25,AeroCargo,air,standard,Newark,NJ,Chicago,IL,829.0,289.0,11250.05,0.065
+SH-126925,2026-06-23,2026-06-28,2026-06-26,BlueRoute LTL,LTL,standard,Chicago,IL,Denver,CO,1083.0,639.0,751.94,0.153
+SH-126926,2026-06-23,2026-06-26,2026-06-27,Prairie Lines,truckload,standard,Dallas,TX,Atlanta,GA,849.0,23511.0,40743.14,0.514
+SH-126927,2026-06-23,2026-06-26,2026-06-25,AeroCargo,air,standard,Los Angeles,CA,Chicago,IL,2056.0,361.0,8807.76,0.113
+SH-126928,2026-06-23,2026-06-26,2026-06-25,BlueRoute LTL,LTL,standard,Chicago,IL,Detroit,MI,279.0,1334.0,2313.56,0.097
+SH-126929,2026-06-23,2026-06-29,2026-06-29,Prairie Lines,truckload,standard,Seattle,WA,Houston,TX,2229.0,16996.0,30733.59,0.274
+SH-126930,2026-06-23,2026-06-26,2026-06-26,AeroCargo,air,expedited,Houston,TX,Seattle,WA,2229.0,385.0,11322.28,0.304
+SH-126931,2026-06-23,2026-07-02,,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Denver,CO,1910.0,31884.0,46790.55,0.26
+SH-126932,2026-06-23,2026-06-29,2026-06-28,IronRail Intermodal,intermodal rail,standard,Denver,CO,Dallas,TX,782.0,28675.0,37188.98,0.26
+SH-126933,2026-06-23,2026-07-01,,IronRail Intermodal,intermodal rail,standard,Denver,CO,Charlotte,NC,1600.0,12355.0,18790.57,0.067
+SH-126934,2026-06-23,2026-06-30,2026-06-30,SwiftParcel,parcel,standard,Seattle,WA,Columbus,OH,2370.0,19.0,178.06,0.082
+SH-126935,2026-06-23,2026-06-27,2026-06-27,SwiftParcel,parcel,standard,Houston,TX,Minneapolis,MN,1248.0,33.0,900.6,0.296
+SH-126936,2026-06-23,2026-06-26,2026-06-26,Summit Freight,truckload,expedited,Philadelphia,PA,Miami,FL,1206.0,22554.0,35618.2,0.26
+SH-126937,2026-06-23,2026-06-29,2026-06-29,IronRail Intermodal,intermodal rail,standard,Miami,FL,Charlotte,NC,773.0,31322.0,93286.43,0.509
+SH-126938,2026-06-23,2026-06-26,2026-06-26,NorthStar Parcel,parcel,expedited,Atlanta,GA,Chicago,IL,695.0,15.0,214.62,0.305
+SH-126939,2026-06-23,2026-06-30,2026-06-27,NorthStar Parcel,parcel,expedited,Philadelphia,PA,Seattle,WA,2800.0,17.0,237.64,0.049
+SH-126940,2026-06-23,2026-06-26,2026-06-26,SwiftParcel,parcel,standard,Denver,CO,Dallas,TX,782.0,7.0,64.07,0.397
+SH-126941,2026-06-23,2026-06-27,2026-06-27,Coastal LTL,LTL,standard,Charlotte,NC,Newark,NJ,621.0,684.0,3772.58,0.42
+SH-126942,2026-06-23,2026-06-26,2026-06-27,Summit Freight,truckload,standard,Atlanta,GA,Dallas,TX,849.0,24499.0,47830.43,0.49
+SH-126943,2026-06-23,2026-06-28,2026-06-27,Prairie Lines,truckload,standard,Newark,NJ,Houston,TX,1665.0,26234.0,68998.53,0.271
+SH-126944,2026-06-23,2026-06-27,2026-06-26,Prairie Lines,truckload,standard,Newark,NJ,Kansas City,MO,1280.0,23366.0,33519.8,0.099
+SH-126945,2026-06-23,2026-07-02,2026-06-30,BlueRoute LTL,LTL,expedited,Philadelphia,PA,Los Angeles,CA,2818.0,4396.0,11690.16,0.109
+SH-126946,2026-06-23,2026-06-28,2026-06-27,Summit Freight,truckload,standard,Philadelphia,PA,Denver,CO,1858.0,20051.0,98983.58,0.281
+SH-126947,2026-06-24,2026-06-28,2026-06-29,BlueRoute LTL,LTL,standard,Atlanta,GA,Chicago,IL,695.0,4872.0,29222.94,0.228
+SH-126948,2026-06-24,2026-06-28,2026-06-28,Coastal LTL,LTL,standard,Newark,NJ,Charlotte,NC,621.0,645.0,1575.66,0.346
+SH-126949,2026-06-24,2026-06-26,2026-06-26,Prairie Lines,truckload,standard,Columbus,OH,Philadelphia,PA,489.0,26471.0,73452.96,0.205
+SH-126950,2026-06-24,2026-06-27,2026-06-26,AeroCargo,air,standard,Newark,NJ,Minneapolis,MN,1189.0,936.0,31175.87,0.136
+SH-126951,2026-06-24,2026-06-26,2026-06-27,Prairie Lines,truckload,standard,Memphis,TN,Nashville,TN,232.0,24041.0,76048.76,0.378
+SH-126952,2026-06-24,2026-06-29,2026-06-27,Summit Freight,truckload,standard,Dallas,TX,Boston,MA,1828.0,12130.0,44466.9,0.217
+SH-126953,2026-06-24,2026-06-30,,IronRail Intermodal,intermodal rail,standard,Dallas,TX,Chicago,IL,950.0,22789.0,23926.68,0.229
+SH-126954,2026-06-24,2026-07-03,,IronRail Intermodal,intermodal rail,standard,Memphis,TN,Los Angeles,CA,1888.0,27964.0,47767.62,0.414
+SH-126955,2026-06-24,2026-06-29,2026-06-27,IronRail Intermodal,intermodal rail,standard,Nashville,TN,Chicago,IL,469.0,16169.0,28758.98,0.256
+SH-126956,2026-06-24,2026-06-29,2026-06-28,NorthStar Parcel,parcel,standard,Seattle,WA,Denver,CO,1203.0,67.0,539.62,0.197
+SH-126957,2026-06-24,2026-06-27,2026-06-26,Summit Freight,truckload,standard,Nashville,TN,Minneapolis,MN,823.0,25173.0,51022.35,0.457
+SH-126958,2026-06-24,2026-06-27,2026-06-27,SwiftParcel,parcel,standard,Memphis,TN,Minneapolis,MN,826.0,69.0,995.16,0.278
+SH-126959,2026-06-24,2026-06-28,2026-06-29,Prairie Lines,truckload,standard,Los Angeles,CA,Houston,TX,1617.0,28163.0,118216.73,0.112
+SH-126960,2026-06-24,2026-06-27,2026-06-26,SwiftParcel,parcel,standard,Charlotte,NC,Nashville,TN,400.0,9.0,92.52,0.523
+SH-126961,2026-06-24,2026-06-26,2026-06-26,Prairie Lines,truckload,standard,Chicago,IL,Kansas City,MO,487.0,13717.0,54938.32,0.06
+SH-126962,2026-06-24,2026-06-28,2026-06-27,SwiftParcel,parcel,standard,Los Angeles,CA,Seattle,WA,1134.0,40.0,315.78,0.132
+SH-126963,2026-06-24,2026-06-27,2026-06-26,AeroCargo,air,standard,Philadelphia,PA,Salt Lake City,UT,2266.0,203.0,4361.85,0.222
+SH-126964,2026-06-24,2026-06-28,2026-06-28,Summit Freight,truckload,standard,Phoenix,AZ,Dallas,TX,1043.0,22067.0,46357.18,0.264
+SH-126965,2026-06-24,2026-07-02,2026-06-30,IronRail Intermodal,intermodal rail,standard,Kansas City,MO,Boston,MA,1472.0,36010.0,53428.68,0.082
+SH-126966,2026-06-24,2026-06-28,2026-06-26,Summit Freight,truckload,standard,Dallas,TX,Minneapolis,MN,1019.0,28602.0,116504.49,0.289
+SH-126967,2026-06-24,2026-06-26,2026-06-25,AeroCargo,air,standard,Salt Lake City,UT,Los Angeles,CA,684.0,250.0,3930.27,0.177
+SH-126968,2026-06-24,2026-06-27,2026-06-26,NorthStar Parcel,parcel,standard,Columbus,OH,Newark,NJ,552.0,9.0,159.61,0.153
+SH-126969,2026-06-24,2026-06-29,2026-06-28,Summit Freight,truckload,standard,Phoenix,AZ,Chicago,IL,1713.0,15903.0,17130.4,0.225
+SH-126970,2026-06-24,2026-07-02,,Coastal LTL,LTL,standard,Los Angeles,CA,Atlanta,GA,2280.0,594.0,981.47,0.165
+SH-126971,2026-06-24,2026-06-28,2026-06-29,Summit Freight,truckload,standard,Salt Lake City,UT,Dallas,TX,1178.0,10423.0,19699.82,0.228
+SH-126972,2026-06-24,2026-06-26,2026-06-26,SwiftParcel,parcel,standard,Nashville,TN,Memphis,TN,232.0,20.0,169.21,0.517
+SH-126973,2026-06-25,2026-06-29,2026-06-28,SwiftParcel,parcel,standard,Denver,CO,Seattle,WA,1203.0,18.0,331.2,0.125
+SH-126974,2026-06-25,2026-06-28,2026-06-27,Summit Freight,truckload,expedited,Memphis,TN,Newark,NJ,1116.0,37124.0,80029.82,0.404
+SH-126975,2026-06-25,2026-07-04,,IronRail Intermodal,intermodal rail,standard,Boston,MA,Houston,TX,1893.0,35089.0,63706.73,0.162
+SH-126976,2026-06-25,2026-06-28,2026-06-28,Prairie Lines,truckload,standard,Columbus,OH,Dallas,TX,1077.0,39779.0,51144.03,0.0
+SH-126977,2026-06-25,2026-06-27,2026-06-27,AeroCargo,air,expedited,Houston,TX,Detroit,MI,1305.0,224.0,5050.8,0.234
+SH-126978,2026-06-25,2026-06-29,2026-06-28,Prairie Lines,truckload,standard,Dallas,TX,Detroit,MI,1179.0,15717.0,35510.29,0.248
+SH-126979,2026-06-25,2026-06-28,2026-06-27,AeroCargo,air,standard,Denver,CO,Boston,MA,2083.0,499.0,27725.71,0.187
+SH-126980,2026-06-25,2026-07-06,,IronRail Intermodal,intermodal rail,standard,Los Angeles,CA,Columbus,OH,2329.0,14282.0,27076.1,0.188
+SH-126981,2026-06-25,2026-07-02,,BlueRoute LTL,LTL,standard,Houston,TX,Newark,NJ,1665.0,866.0,2480.78,0.304
+SH-126982,2026-06-25,2026-06-27,2026-06-28,Summit Freight,truckload,standard,Memphis,TN,Nashville,TN,232.0,58701.0,123040.74,0.466
+SH-126983,2026-06-25,2026-06-29,2026-06-28,BlueRoute LTL,LTL,expedited,Houston,TX,Charlotte,NC,1093.0,3710.0,9191.45,0.286
+SH-126984,2026-06-25,2026-07-03,,NorthStar Parcel,parcel,standard,Philadelphia,PA,Los Angeles,CA,2818.0,18.0,476.68,0.16
+SH-126985,2026-06-25,2026-06-30,2026-06-29,NorthStar Parcel,parcel,expedited,Los Angeles,CA,Chicago,IL,2056.0,62.0,1395.31,0.028
+SH-126986,2026-06-25,2026-06-28,2026-06-28,AeroCargo,air,expedited,Newark,NJ,Los Angeles,CA,2875.0,200.0,4802.52,0.148
+SH-126987,2026-06-25,2026-06-28,2026-06-28,AeroCargo,air,standard,Chicago,IL,Los Angeles,CA,2056.0,74.0,2449.03,0.216
+SH-126988,2026-06-25,2026-06-28,2026-06-28,SwiftParcel,parcel,standard,Atlanta,GA,Philadelphia,PA,785.0,10.0,198.81,0.112
+SH-126989,2026-06-25,2026-06-30,2026-06-29,Summit Freight,truckload,standard,Phoenix,AZ,Chicago,IL,1713.0,24749.0,40382.86,0.222
+SH-126990,2026-06-25,2026-06-29,2026-06-28,SwiftParcel,parcel,standard,Denver,CO,Nashville,TN,1204.0,25.0,295.98,0.091
+SH-126991,2026-06-25,2026-06-29,2026-06-29,Coastal LTL,LTL,expedited,Memphis,TN,Miami,FL,1031.0,1222.0,3859.44,0.322
+SH-126992,2026-06-25,2026-07-06,,IronRail Intermodal,intermodal rail,standard,Detroit,MI,Los Angeles,CA,2335.0,14447.0,44404.33,0.024
+SH-126993,2026-06-25,2026-07-07,,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Seattle,WA,2824.0,30777.0,26537.3,0.0
+SH-126994,2026-06-25,2026-06-28,2026-06-27,Coastal LTL,LTL,standard,Kansas City,MO,Chicago,IL,487.0,2326.0,9295.13,0.136
+SH-126995,2026-06-25,2026-06-28,2026-06-28,AeroCargo,air,standard,Houston,TX,Newark,NJ,1665.0,183.0,4643.96,0.17
+SH-126996,2026-06-25,2026-06-28,2026-06-27,NorthStar Parcel,parcel,standard,Nashville,TN,Dallas,TX,727.0,7.0,64.5,0.321
+SH-126997,2026-06-25,2026-06-29,2026-06-28,SwiftParcel,parcel,standard,Atlanta,GA,Newark,NJ,873.0,28.0,278.5,0.298
+SH-126998,2026-06-25,2026-07-01,,SwiftParcel,parcel,standard,Los Angeles,CA,Minneapolis,MN,1795.0,12.0,126.95,0.067
+SH-126999,2026-06-25,2026-07-04,,IronRail Intermodal,intermodal rail,standard,Chicago,IL,Phoenix,AZ,1713.0,32566.0,47717.84,0.016
+SH-127000,2026-06-25,2026-06-30,2026-06-30,SwiftParcel,parcel,standard,Salt Lake City,UT,Chicago,IL,1483.0,28.0,355.97,0.214
+SH-127001,2026-06-25,2026-06-28,2026-06-28,AeroCargo,air,standard,Houston,TX,Minneapolis,MN,1248.0,580.0,16641.93,0.338
+SH-127002,2026-06-25,2026-06-29,2026-06-29,Coastal LTL,LTL,standard,Chicago,IL,Memphis,TN,570.0,1853.0,3211.79,0.0
+SH-127003,2026-06-25,2026-06-28,2026-06-27,NorthStar Parcel,parcel,standard,Dallas,TX,Memphis,TN,496.0,31.0,305.56,0.442
+SH-127004,2026-06-25,2026-06-30,,Prairie Lines,truckload,standard,Dallas,TX,Boston,MA,1828.0,9926.0,14223.92,0.364
+SH-127005,2026-06-25,2026-07-05,,IronRail Intermodal,intermodal rail,standard,Chicago,IL,Los Angeles,CA,2056.0,22163.0,31611.71,0.078
+SH-127006,2026-06-25,2026-06-30,2026-06-30,IronRail Intermodal,intermodal rail,standard,Philadelphia,PA,Detroit,MI,521.0,20234.0,19028.55,0.059
+SH-127007,2026-06-25,2026-06-27,2026-06-27,Prairie Lines,truckload,standard,Dallas,TX,Houston,TX,266.0,37622.0,46060.91,0.143
+SH-127008,2026-06-25,2026-06-27,2026-06-27,Prairie Lines,truckload,standard,Chicago,IL,Minneapolis,MN,419.0,33620.0,64431.25,0.094
+SH-127009,2026-06-26,2026-07-03,,Summit Freight,truckload,standard,Philadelphia,PA,Los Angeles,CA,2818.0,22306.0,57918.11,0.0
+SH-127010,2026-06-26,2026-06-29,2026-06-28,Summit Freight,truckload,standard,Kansas City,MO,Atlanta,GA,797.0,21248.0,63508.1,0.101
+SH-127011,2026-06-26,2026-07-02,2026-06-30,Summit Freight,truckload,standard,Los Angeles,CA,Nashville,TN,2096.0,19845.0,72172.15,0.259
+SH-127012,2026-06-26,2026-07-01,2026-06-29,BlueRoute LTL,LTL,standard,Phoenix,AZ,Dallas,TX,1043.0,675.0,1273.98,0.0
+SH-127013,2026-06-26,2026-06-28,2026-06-28,Summit Freight,truckload,expedited,Atlanta,GA,Chicago,IL,695.0,14050.0,30658.66,0.246
+SH-127014,2026-06-26,2026-06-28,2026-06-28,AeroCargo,air,expedited,Atlanta,GA,Denver,CO,1428.0,880.0,14516.34,0.079
+SH-127015,2026-06-26,2026-06-29,2026-06-30,Coastal LTL,LTL,standard,Kansas City,MO,Chicago,IL,487.0,2281.0,6068.54,0.101
+SH-127016,2026-06-26,2026-06-28,2026-06-28,Prairie Lines,truckload,standard,Chicago,IL,Minneapolis,MN,419.0,18928.0,44914.0,0.173
+SH-127017,2026-06-26,2026-06-29,2026-06-28,AeroCargo,air,standard,Detroit,MI,Phoenix,AZ,1991.0,100.0,2628.65,0.105
+SH-127018,2026-06-26,2026-06-30,,BlueRoute LTL,LTL,expedited,Atlanta,GA,Minneapolis,MN,1072.0,889.0,3990.77,0.123
+SH-127019,2026-06-26,2026-06-30,2026-06-30,Prairie Lines,truckload,standard,Minneapolis,MN,Phoenix,AZ,1508.0,18529.0,48870.84,0.055
+SH-127020,2026-06-26,2026-06-30,2026-06-28,Summit Freight,truckload,standard,Memphis,TN,Newark,NJ,1116.0,8882.0,21876.1,0.205
+SH-127021,2026-06-26,2026-06-28,2026-06-27,Summit Freight,truckload,standard,Kansas City,MO,Minneapolis,MN,486.0,50925.0,174441.94,0.091
+SH-127022,2026-06-26,2026-06-29,2026-06-28,Prairie Lines,truckload,standard,Denver,CO,Houston,TX,1037.0,24745.0,29277.13,0.098
+SH-127023,2026-06-26,2026-06-30,2026-06-29,Summit Freight,truckload,standard,Detroit,MI,Dallas,TX,1179.0,15741.0,32904.17,0.256
+SH-127024,2026-06-26,2026-06-29,2026-06-28,Prairie Lines,truckload,standard,Salt Lake City,UT,Los Angeles,CA,684.0,22549.0,60769.14,0.11
+SH-127025,2026-06-26,2026-06-29,2026-06-28,Summit Freight,truckload,expedited,Atlanta,GA,Minneapolis,MN,1072.0,27813.0,52913.82,0.147
+SH-127026,2026-06-26,2026-06-29,2026-06-29,Summit Freight,truckload,standard,Chicago,IL,Newark,NJ,829.0,19921.0,30443.85,0.054
+SH-127027,2026-06-26,2026-06-29,2026-06-28,BlueRoute LTL,LTL,expedited,Memphis,TN,Dallas,TX,496.0,584.0,1627.45,0.051
+SH-127028,2026-06-26,2026-06-30,2026-06-29,BlueRoute LTL,LTL,standard,Denver,CO,Kansas City,MO,657.0,2487.0,5777.93,0.2
+SH-127029,2026-06-26,2026-06-28,2026-06-27,AeroCargo,air,expedited,Salt Lake City,UT,Denver,CO,437.0,134.0,4348.18,0.061
+SH-127030,2026-06-26,2026-07-05,,BlueRoute LTL,LTL,standard,Miami,FL,Phoenix,AZ,2335.0,1785.0,5801.04,0.0
+SH-127031,2026-06-26,2026-06-29,2026-06-28,Prairie Lines,truckload,standard,Philadelphia,PA,Chicago,IL,783.0,7474.0,11433.52,0.113
+SH-127032,2026-06-26,2026-06-30,2026-06-30,BlueRoute LTL,LTL,standard,Philadelphia,PA,Atlanta,GA,785.0,439.0,1640.16,0.0
+SH-127033,2026-06-26,2026-07-01,,IronRail Intermodal,intermodal rail,standard,Charlotte,NC,Detroit,MI,596.0,15715.0,11140.75,0.029
+SH-127034,2026-06-26,2026-06-30,2026-06-29,SwiftParcel,parcel,standard,Dallas,TX,Charlotte,NC,1096.0,41.0,360.29,0.0
+SH-127035,2026-06-26,2026-07-01,2026-06-29,BlueRoute LTL,LTL,standard,Chicago,IL,Boston,MA,1001.0,1884.0,6395.83,0.067
+SH-127036,2026-06-26,2026-07-05,,IronRail Intermodal,intermodal rail,standard,Boston,MA,Dallas,TX,1828.0,22804.0,45734.43,0.142
+SH-127037,2026-06-26,2026-07-02,,Prairie Lines,truckload,standard,Columbus,OH,Seattle,WA,2370.0,25375.0,39969.31,0.1
+SH-127038,2026-06-26,2026-06-28,2026-06-28,Prairie Lines,truckload,standard,Philadelphia,PA,Columbus,OH,489.0,20791.0,28593.63,0.097
+SH-127039,2026-06-27,2026-06-30,2026-06-29,Prairie Lines,truckload,standard,Phoenix,AZ,Denver,CO,691.0,36040.0,56747.47,0.21
+SH-127040,2026-06-27,2026-07-02,,IronRail Intermodal,intermodal rail,standard,Dallas,TX,Memphis,TN,496.0,29917.0,41029.02,0.118
+SH-127041,2026-06-27,2026-07-02,2026-06-30,Summit Freight,truckload,standard,Seattle,WA,Minneapolis,MN,1641.0,16124.0,38005.99,0.247
+SH-127042,2026-06-27,2026-06-29,2026-06-28,NorthStar Parcel,parcel,expedited,Newark,NJ,Philadelphia,PA,89.0,181.0,1787.64,0.057
+SH-127043,2026-06-27,2026-06-30,2026-06-28,Summit Freight,truckload,expedited,Houston,TX,Nashville,TN,785.0,15575.0,34377.83,0.156
+SH-127044,2026-06-27,2026-07-01,2026-06-29,Summit Freight,truckload,standard,Denver,CO,Memphis,TN,1035.0,29188.0,44128.51,0.295
+SH-127045,2026-06-27,2026-06-30,2026-06-30,AeroCargo,air,standard,Philadelphia,PA,Houston,TX,1581.0,293.0,10214.17,0.008
+SH-127046,2026-06-27,2026-06-29,2026-06-28,Prairie Lines,truckload,standard,Dallas,TX,Houston,TX,266.0,13209.0,28837.09,0.189
+SH-127047,2026-06-27,2026-07-02,,IronRail Intermodal,intermodal rail,standard,Detroit,MI,Memphis,TN,735.0,26221.0,46629.82,0.042
+SH-127048,2026-06-27,2026-07-02,,IronRail Intermodal,intermodal rail,standard,Kansas City,MO,Dallas,TX,536.0,30195.0,23137.76,0.153
+SH-127049,2026-06-28,2026-07-01,2026-06-30,NorthStar Parcel,parcel,standard,Minneapolis,MN,Columbus,OH,740.0,2.0,30.74,0.231
+SH-127050,2026-06-28,2026-07-02,2026-06-30,SwiftParcel,parcel,standard,Memphis,TN,Philadelphia,PA,1037.0,65.0,1065.0,0.149
+SH-127051,2026-06-28,2026-07-05,,SwiftParcel,parcel,standard,Salt Lake City,UT,Boston,MA,2470.0,35.0,676.42,0.013
+SH-127052,2026-06-28,2026-07-11,,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Los Angeles,CA,2875.0,27388.0,48885.47,0.012
+SH-127053,2026-06-28,2026-07-02,,BlueRoute LTL,LTL,standard,Detroit,MI,Boston,MA,722.0,805.0,6212.64,0.049
+SH-127054,2026-06-28,2026-07-04,,SwiftParcel,parcel,standard,Boston,MA,Dallas,TX,1828.0,25.0,518.52,0.0
+SH-127055,2026-06-29,2026-07-03,,SwiftParcel,parcel,standard,Minneapolis,MN,Atlanta,GA,1072.0,71.0,625.62,0.09
+SH-127056,2026-06-29,2026-07-02,,AeroCargo,air,standard,Kansas City,MO,Los Angeles,CA,1598.0,273.0,9603.73,0.13
+SH-127057,2026-06-29,2026-06-30,2026-06-30,Prairie Lines,truckload,standard,Newark,NJ,Philadelphia,PA,89.0,13753.0,33016.33,0.0
+SH-127058,2026-06-29,2026-07-03,,Coastal LTL,LTL,standard,Dallas,TX,Nashville,TN,727.0,7382.0,35538.82,0.122
+SH-127059,2026-06-29,2026-07-03,,NorthStar Parcel,parcel,standard,Dallas,TX,Charlotte,NC,1096.0,29.0,474.39,0.217
+SH-127060,2026-06-29,2026-07-10,,IronRail Intermodal,intermodal rail,standard,Los Angeles,CA,Atlanta,GA,2280.0,23252.0,39637.5,0.039
+SH-127061,2026-06-29,2026-07-02,,Summit Freight,truckload,standard,Charlotte,NC,Detroit,MI,596.0,22523.0,39520.35,0.198
+SH-127062,2026-06-29,2026-07-02,,AeroCargo,air,standard,Denver,CO,Seattle,WA,1203.0,1499.0,40597.74,0.0
+SH-127063,2026-06-29,2026-07-03,,NorthStar Parcel,parcel,standard,Dallas,TX,Charlotte,NC,1096.0,17.0,273.91,0.149
+SH-127064,2026-06-29,2026-07-02,2026-06-30,AeroCargo,air,standard,Kansas City,MO,Salt Lake City,UT,1089.0,109.0,5462.95,0.231
+SH-127065,2026-06-29,2026-07-07,,Coastal LTL,LTL,standard,Phoenix,AZ,Miami,FL,2335.0,355.0,741.15,0.271
+SH-127066,2026-06-29,2026-07-05,,IronRail Intermodal,intermodal rail,standard,Memphis,TN,Miami,FL,1031.0,33061.0,21790.63,0.186
+SH-127067,2026-06-29,2026-07-09,,IronRail Intermodal,intermodal rail,standard,Phoenix,AZ,Charlotte,NC,2099.0,17410.0,23938.58,0.118
+SH-127068,2026-06-29,2026-07-04,,IronRail Intermodal,intermodal rail,standard,Memphis,TN,Dallas,TX,496.0,36620.0,56058.2,0.211
+SH-127069,2026-06-29,2026-07-04,,BlueRoute LTL,LTL,standard,Seattle,WA,Los Angeles,CA,1134.0,742.0,1473.16,0.035
+SH-127070,2026-06-29,2026-07-02,,Prairie Lines,truckload,standard,Los Angeles,CA,Denver,CO,979.0,20836.0,28795.06,0.057
+SH-127071,2026-06-29,2026-07-04,,SwiftParcel,parcel,standard,Detroit,MI,Miami,FL,1364.0,53.0,425.39,0.044
+SH-127072,2026-06-29,2026-07-03,,SwiftParcel,parcel,standard,Newark,NJ,Atlanta,GA,873.0,17.0,260.51,0.079
+SH-127073,2026-06-29,2026-07-01,2026-06-30,AeroCargo,air,standard,Memphis,TN,Dallas,TX,496.0,224.0,8464.86,0.209
+SH-127074,2026-06-29,2026-07-10,,IronRail Intermodal,intermodal rail,standard,Los Angeles,CA,Charlotte,NC,2496.0,23062.0,43972.98,0.203
+SH-127075,2026-06-29,2026-07-11,,IronRail Intermodal,intermodal rail,standard,Los Angeles,CA,Miami,FL,2756.0,15719.0,31610.06,0.014
+SH-127076,2026-06-29,2026-07-06,,IronRail Intermodal,intermodal rail,standard,Dallas,TX,Detroit,MI,1179.0,24073.0,42620.54,0.234
+SH-127077,2026-06-29,2026-07-04,,Coastal LTL,LTL,standard,Dallas,TX,Columbus,OH,1077.0,2718.0,5337.04,0.112
+SH-127078,2026-06-29,2026-07-02,,AeroCargo,air,standard,Seattle,WA,Dallas,TX,1982.0,228.0,4592.29,0.193
+SH-127079,2026-06-29,2026-07-04,,Prairie Lines,truckload,standard,Boston,MA,Denver,CO,2083.0,28351.0,26394.75,0.0
+SH-127080,2026-06-29,2026-07-01,,SwiftParcel,parcel,expedited,Kansas City,MO,Nashville,TN,558.0,40.0,417.09,0.292
+SH-127081,2026-06-29,2026-07-07,,BlueRoute LTL,LTL,standard,Boston,MA,Dallas,TX,1828.0,2716.0,9244.67,0.187
+SH-127082,2026-06-29,2026-07-07,,IronRail Intermodal,intermodal rail,standard,Denver,CO,Detroit,MI,1362.0,15412.0,39324.58,0.0
+SH-127083,2026-06-29,2026-07-03,,Summit Freight,truckload,expedited,Atlanta,GA,Phoenix,AZ,1874.0,22705.0,38469.39,0.157
+SH-127084,2026-06-29,2026-07-10,,IronRail Intermodal,intermodal rail,standard,Los Angeles,CA,Columbus,OH,2329.0,16407.0,12270.79,0.082
+SH-127085,2026-06-29,2026-07-05,,Prairie Lines,truckload,standard,Phoenix,AZ,Newark,NJ,2515.0,23325.0,44676.56,0.0
+SH-127086,2026-06-29,2026-07-03,,NorthStar Parcel,parcel,standard,Minneapolis,MN,Dallas,TX,1019.0,31.0,272.57,0.089
+SH-127087,2026-06-29,2026-07-07,,BlueRoute LTL,LTL,expedited,Atlanta,GA,Seattle,WA,2570.0,1910.0,6399.7,0.045
+SH-127088,2026-06-29,2026-07-02,,Summit Freight,truckload,standard,Chicago,IL,Atlanta,GA,695.0,23747.0,73820.24,0.103
+SH-127089,2026-06-29,2026-07-03,,NorthStar Parcel,parcel,expedited,Columbus,OH,Miami,FL,1173.0,42.0,704.59,0.275
+SH-127090,2026-06-29,2026-07-03,,Coastal LTL,LTL,standard,Charlotte,NC,Miami,FL,773.0,1945.0,5959.14,0.104
+SH-127091,2026-06-29,2026-07-02,,AeroCargo,air,standard,Boston,MA,Houston,TX,1893.0,526.0,7045.07,0.088
+SH-127092,2026-06-29,2026-07-05,,Summit Freight,truckload,standard,Miami,FL,Denver,CO,2036.0,15709.0,40385.61,0.137
+SH-127093,2026-06-29,2026-07-09,,IronRail Intermodal,intermodal rail,standard,Chicago,IL,Los Angeles,CA,2056.0,14127.0,24092.07,0.116
+SH-127094,2026-06-30,2026-07-03,,Summit Freight,truckload,expedited,Dallas,TX,Atlanta,GA,849.0,15014.0,23295.46,0.186
+SH-127095,2026-06-30,2026-07-07,,Coastal LTL,LTL,standard,Nashville,TN,Phoenix,AZ,1703.0,988.0,2198.26,0.255
+SH-127096,2026-06-30,2026-07-07,,IronRail Intermodal,intermodal rail,standard,Phoenix,AZ,Houston,TX,1196.0,44178.0,62871.1,0.141
+SH-127097,2026-06-30,2026-07-09,,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Denver,CO,1910.0,24466.0,22375.34,0.168
+SH-127098,2026-06-30,2026-07-03,,Prairie Lines,truckload,standard,Atlanta,GA,Chicago,IL,695.0,22612.0,54395.76,0.348
+SH-127099,2026-06-30,2026-07-04,,Summit Freight,truckload,standard,Atlanta,GA,Minneapolis,MN,1072.0,38094.0,55039.19,0.248
+SH-127100,2026-06-30,2026-07-08,,BlueRoute LTL,LTL,standard,Atlanta,GA,Phoenix,AZ,1874.0,700.0,2541.74,0.185
+SH-127101,2026-06-30,2026-07-02,,Summit Freight,truckload,standard,Chicago,IL,Detroit,MI,279.0,24383.0,42203.53,0.312
+SH-127102,2026-06-30,2026-07-12,,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Seattle,WA,2824.0,17066.0,18237.1,0.009
+SH-127103,2026-06-30,2026-07-04,,BlueRoute LTL,LTL,standard,Chicago,IL,Kansas City,MO,487.0,1875.0,4224.76,0.275
+SH-127104,2026-06-30,2026-07-07,,IronRail Intermodal,intermodal rail,standard,Dallas,TX,Detroit,MI,1179.0,39889.0,27765.37,0.271
+SH-127105,2026-06-30,2026-07-05,,Prairie Lines,truckload,standard,Seattle,WA,Kansas City,MO,1773.0,28487.0,56073.08,0.317
+SH-127106,2026-06-30,2026-07-07,,BlueRoute LTL,LTL,standard,Newark,NJ,Houston,TX,1665.0,545.0,1457.96,0.054
+SH-127107,2026-06-30,2026-07-03,,AeroCargo,air,standard,Phoenix,AZ,Minneapolis,MN,1508.0,815.0,26271.73,0.067
+SH-127108,2026-06-30,2026-07-02,,Summit Freight,truckload,standard,Chicago,IL,Minneapolis,MN,419.0,27002.0,75647.51,0.155
+SH-127109,2026-06-30,2026-07-04,,AeroCargo,air,standard,Boston,MA,Seattle,WA,2933.0,107.0,2147.25,0.084
+SH-127110,2026-06-30,2026-07-07,,IronRail Intermodal,intermodal rail,standard,Denver,CO,Seattle,WA,1203.0,22309.0,16493.2,0.121
+SH-127111,2026-06-30,2026-07-05,,Prairie Lines,truckload,standard,Boston,MA,Dallas,TX,1828.0,24853.0,73158.05,0.105
+SH-127112,2026-06-30,2026-07-04,,BlueRoute LTL,LTL,standard,Houston,TX,Memphis,TN,572.0,756.0,856.67,0.328
+SH-127113,2026-06-30,2026-07-07,,NorthStar Parcel,parcel,standard,Atlanta,GA,Los Angeles,CA,2280.0,41.0,813.56,0.012
+SH-127114,2026-06-30,2026-07-03,,Coastal LTL,LTL,standard,Salt Lake City,UT,Denver,CO,437.0,850.0,4788.15,0.191
+SH-127115,2026-06-30,2026-07-06,,BlueRoute LTL,LTL,standard,Houston,TX,Phoenix,AZ,1196.0,1212.0,4580.09,0.13
+SH-127116,2026-06-30,2026-07-09,,Coastal LTL,LTL,standard,Charlotte,NC,Seattle,WA,2691.0,3986.0,8377.76,0.202
+SH-127117,2026-06-30,2026-07-02,,Prairie Lines,truckload,standard,Chicago,IL,Columbus,OH,325.0,19673.0,36218.69,0.286
+SH-127118,2026-06-30,2026-07-13,,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Los Angeles,CA,2875.0,31248.0,26448.82,0.074
+SH-127119,2026-06-30,2026-07-03,,NorthStar Parcel,parcel,expedited,Houston,TX,Nashville,TN,785.0,41.0,344.26,0.198
+SH-127120,2026-06-30,2026-07-04,,Coastal LTL,LTL,expedited,Newark,NJ,Atlanta,GA,873.0,3895.0,20714.75,0.014
+SH-127121,2026-06-30,2026-07-03,,Summit Freight,truckload,standard,Houston,TX,Nashville,TN,785.0,28220.0,104836.37,0.227
+SH-127122,2026-06-30,2026-07-03,,AeroCargo,air,standard,Miami,FL,Detroit,MI,1364.0,128.0,4047.8,0.126
+SH-127123,2026-06-30,2026-07-02,,AeroCargo,air,standard,Philadelphia,PA,Atlanta,GA,785.0,282.0,4836.97,0.132
+SH-127124,2026-06-30,2026-07-03,,AeroCargo,air,standard,Los Angeles,CA,Kansas City,MO,1598.0,96.0,4348.68,0.159
+SH-127125,2026-06-30,2026-07-12,,IronRail Intermodal,intermodal rail,standard,Miami,FL,Los Angeles,CA,2756.0,39779.0,91299.47,0.265
+SH-127126,2026-06-30,2026-07-09,,IronRail Intermodal,intermodal rail,standard,Newark,NJ,Denver,CO,1910.0,25593.0,38128.34,0.047
+SH-127127,2026-06-30,2026-07-06,,NorthStar Parcel,parcel,expedited,Columbus,OH,Los Angeles,CA,2329.0,17.0,192.55,0.114
+SH-127128,2026-06-30,2026-07-02,,AeroCargo,air,standard,Atlanta,GA,Miami,FL,716.0,195.0,5549.66,0.235
+SH-127129,2026-06-30,2026-07-04,,BlueRoute LTL,LTL,standard,Chicago,IL,Charlotte,NC,693.0,5332.0,16708.9,0.117
+SH-127130,2026-06-30,2026-07-05,,Prairie Lines,truckload,standard,Phoenix,AZ,Atlanta,GA,1874.0,19736.0,36503.44,0.0
+SH-127131,2026-06-30,2026-07-04,,Coastal LTL,LTL,expedited,Salt Lake City,UT,Kansas City,MO,1089.0,1008.0,2979.03,0.045
+SH-127132,2026-06-30,2026-07-04,,BlueRoute LTL,LTL,standard,Kansas City,MO,Detroit,MI,759.0,1260.0,6143.11,0.351

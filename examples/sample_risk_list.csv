@@ -1,0 +1,111 @@
+shipment_id,ship_date,promised_date,carrier,mode,service,origin_state,dest_state,distance_miles,value_usd,origin,destination,late_probability,days_to_promise,expected_date,safe_date,tier,value_at_risk,main_reasons
+SH-126877,2026-06-22,2026-06-27,IronRail Intermodal,intermodal rail,standard,TN,TX,727.0,61306.95,Nashville,Dallas,1.0,-3,2026-06-30,2026-06-30,Already late,61306.95,"weather (+16 pts), carrier (+10 pts)"
+SH-126709,2026-06-16,2026-06-26,IronRail Intermodal,intermodal rail,standard,CO,FL,2036.0,14120.04,Denver,Miami,1.0,-4,2026-06-30,2026-06-30,Already late,14120.04,"carrier (+19 pts), timing (+9 pts)"
+SH-126878,2026-06-22,2026-06-29,Coastal LTL,LTL,standard,CA,TN,1888.0,7481.44,Los Angeles,Memphis,1.0,-1,2026-06-30,2026-07-01,Already late,7481.44,"carrier (+30 pts), weather (+9 pts)"
+SH-127065,2026-06-29,2026-07-07,Coastal LTL,LTL,standard,AZ,FL,2335.0,741.15,Phoenix,Miami,0.7096774193548387,7,2026-07-07,2026-07-09,High,525.9774193548387,"carrier (+44 pts), timing (+15 pts)"
+SH-127085,2026-06-29,2026-07-05,Prairie Lines,truckload,standard,AZ,NJ,2515.0,44676.56,Phoenix,Newark,0.631578947368421,5,2026-07-05,2026-07-06,High,28216.7747368421,"promise tightness (+23 pts), carrier (+21 pts)"
+SH-127095,2026-06-30,2026-07-07,Coastal LTL,LTL,standard,TN,AZ,1703.0,2198.26,Nashville,Phoenix,0.5714285714285714,7,2026-07-07,2026-07-09,High,1256.1485714285716,"carrier (+32 pts), timing (+7 pts)"
+SH-127116,2026-06-30,2026-07-09,Coastal LTL,LTL,standard,NC,WA,2691.0,8377.76,Charlotte,Seattle,0.5342465753424658,9,2026-07-09,2026-07-12,High,4475.789589041096,"carrier (+26 pts), timing (+5 pts)"
+SH-127105,2026-06-30,2026-07-05,Prairie Lines,truckload,standard,WA,MO,1773.0,56073.08,Seattle,Kansas City,0.53125,5,2026-07-05,2026-07-06,High,29788.82375,"timing (+14 pts), carrier (+13 pts)"
+SH-127004,2026-06-25,2026-06-30,Prairie Lines,truckload,standard,TX,MA,1828.0,14223.92,Dallas,Boston,0.53125,0,2026-06-30,2026-07-01,High,7556.4575,"carrier (+22 pts), promise tightness (+16 pts)"
+SH-127131,2026-06-30,2026-07-04,Coastal LTL,LTL,expedited,UT,MO,1089.0,2979.03,Salt Lake City,Kansas City,0.53125,4,2026-07-04,2026-07-05,High,1582.6096875,"carrier (+35 pts), timing (+18 pts)"
+SH-127077,2026-06-29,2026-07-04,Coastal LTL,LTL,standard,TX,OH,1077.0,5337.04,Dallas,Columbus,0.5238095238095237,4,2026-07-04,2026-07-05,High,2795.5923809523806,"carrier (+31 pts), timing (+19 pts)"
+SH-127096,2026-06-30,2026-07-07,IronRail Intermodal,intermodal rail,standard,AZ,TX,1196.0,62871.1,Phoenix,Houston,0.4834710743801653,7,2026-07-06,2026-07-08,Medium,30396.358264462808,"carrier (+26 pts), timing (+15 pts)"
+SH-127079,2026-06-29,2026-07-04,Prairie Lines,truckload,standard,MA,CO,2083.0,26394.75,Boston,Denver,0.4834710743801653,4,2026-07-04,2026-07-05,Medium,12761.098140495867,"promise tightness (+22 pts), timing (+21 pts)"
+SH-127120,2026-06-30,2026-07-04,Coastal LTL,LTL,expedited,NJ,GA,873.0,20714.75,Newark,Atlanta,0.4834710743801653,4,2026-07-04,2026-07-05,Medium,10014.982438016528,"carrier (+35 pts), timing (+22 pts)"
+SH-127075,2026-06-29,2026-07-11,IronRail Intermodal,intermodal rail,standard,CA,FL,2756.0,31610.06,Los Angeles,Miami,0.4114583333333333,11,2026-07-10,2026-07-13,Medium,13006.222604166667,"carrier (+22 pts), lane (+8 pts)"
+SH-127104,2026-06-30,2026-07-07,IronRail Intermodal,intermodal rail,standard,TX,MI,1179.0,27765.37,Dallas,Detroit,0.4114583333333333,7,2026-07-06,2026-07-08,Medium,11424.292864583333,"carrier (+15 pts), timing (+9 pts)"
+SH-127066,2026-06-29,2026-07-05,IronRail Intermodal,intermodal rail,standard,TN,FL,1031.0,21790.63,Memphis,Miami,0.4114583333333333,5,2026-07-04,2026-07-06,Medium,8965.936302083333,"carrier (+21 pts), timing (+12 pts)"
+SH-127110,2026-06-30,2026-07-07,IronRail Intermodal,intermodal rail,standard,CO,WA,1203.0,16493.2,Denver,Seattle,0.4114583333333333,7,2026-07-06,2026-07-08,Medium,6786.264583333334,"carrier (+21 pts), timing (+10 pts)"
+SH-126954,2026-06-24,2026-07-03,IronRail Intermodal,intermodal rail,standard,TN,CA,1888.0,47767.62,Memphis,Los Angeles,0.37383177570093457,3,2026-07-02,2026-07-05,Medium,17857.054205607477,"carrier (+14 pts), weather (+5 pts)"
+SH-126931,2026-06-23,2026-07-02,IronRail Intermodal,intermodal rail,standard,NJ,CO,1910.0,46790.55,Newark,Denver,0.37383177570093457,2,2026-07-01,2026-07-04,Medium,17491.794392523367,"carrier (+20 pts), carrier workload (+3 pts)"
+SH-127074,2026-06-29,2026-07-10,IronRail Intermodal,intermodal rail,standard,CA,NC,2496.0,43972.98,Los Angeles,Charlotte,0.37383177570093457,10,2026-07-09,2026-07-12,Medium,16438.497196261684,"carrier (+19 pts), timing (+6 pts)"
+SH-127076,2026-06-29,2026-07-06,IronRail Intermodal,intermodal rail,standard,TX,MI,1179.0,42620.54,Dallas,Detroit,0.37383177570093457,6,2026-07-05,2026-07-07,Medium,15932.91214953271,"carrier (+15 pts), timing (+13 pts)"
+SH-126816,2026-06-19,2026-06-30,IronRail Intermodal,intermodal rail,standard,PA,UT,2266.0,35476.73,Philadelphia,Salt Lake City,0.37383177570093457,0,2026-06-30,2026-07-02,Medium,13262.328971962617,"carrier (+18 pts), timing (+6 pts)"
+SH-126868,2026-06-22,2026-07-04,IronRail Intermodal,intermodal rail,standard,PA,CA,2818.0,24662.48,Philadelphia,Los Angeles,0.37383177570093457,4,2026-07-03,2026-07-07,Medium,9219.618691588785,carrier (+18 pts)
+SH-126867,2026-06-21,2026-07-01,Coastal LTL,LTL,standard,NJ,WA,2824.0,4808.92,Newark,Seattle,0.37383177570093457,1,2026-06-30,2026-07-03,Medium,1797.7271028037383,"carrier (+26 pts), promise tightness (+4 pts)"
+SH-127005,2026-06-25,2026-07-05,IronRail Intermodal,intermodal rail,standard,IL,CA,2056.0,31611.71,Chicago,Los Angeles,0.34285714285714286,5,2026-07-04,2026-07-07,Medium,10838.300571428572,"carrier (+16 pts), timing (+4 pts)"
+SH-127067,2026-06-29,2026-07-09,IronRail Intermodal,intermodal rail,standard,AZ,NC,2099.0,23938.58,Phoenix,Charlotte,0.34285714285714286,9,2026-07-08,2026-07-11,Medium,8207.513142857144,"carrier (+16 pts), timing (+4 pts)"
+SH-126992,2026-06-25,2026-07-06,IronRail Intermodal,intermodal rail,standard,MI,CA,2335.0,44404.33,Detroit,Los Angeles,0.32432432432432434,6,2026-07-04,2026-07-08,Medium,14401.404324324325,"carrier (+14 pts), timing (+2 pts)"
+SH-126826,2026-06-19,2026-07-03,IronRail Intermodal,intermodal rail,standard,FL,WA,3224.0,45570.14,Miami,Seattle,0.3116883116883117,3,2026-07-02,2026-07-06,Medium,14203.68,carrier (+14 pts)
+SH-127093,2026-06-29,2026-07-09,IronRail Intermodal,intermodal rail,standard,IL,CA,2056.0,24092.07,Chicago,Los Angeles,0.3116883116883117,9,2026-07-08,2026-07-11,Medium,7509.216623376623,carrier (+14 pts)
+SH-127102,2026-06-30,2026-07-12,IronRail Intermodal,intermodal rail,standard,NJ,WA,2824.0,18237.1,Newark,Seattle,0.3116883116883117,12,2026-07-11,2026-07-15,Medium,5684.290909090909,carrier (+14 pts)
+SH-126970,2026-06-24,2026-07-02,Coastal LTL,LTL,standard,CA,GA,2280.0,981.47,Los Angeles,Atlanta,0.3116883116883117,2,2026-07-02,2026-07-04,Medium,305.9127272727273,"carrier (+21 pts), promise tightness (+3 pts)"
+SH-127118,2026-06-30,2026-07-13,IronRail Intermodal,intermodal rail,standard,NJ,CA,2875.0,26448.82,Newark,Los Angeles,0.3076923076923077,13,2026-07-12,2026-07-16,Medium,8138.098461538462,carrier (+14 pts)
+SH-127114,2026-06-30,2026-07-03,Coastal LTL,LTL,standard,UT,CO,437.0,4788.15,Salt Lake City,Denver,0.3076923076923077,3,2026-07-03,2026-07-04,Medium,1473.2769230769231,"carrier (+20 pts), lane (+7 pts)"
+SH-127125,2026-06-30,2026-07-12,IronRail Intermodal,intermodal rail,standard,FL,CA,2756.0,91299.47,Miami,Los Angeles,0.30128205128205127,12,2026-07-11,2026-07-15,Medium,27506.8916025641,carrier (+11 pts)
+SH-127068,2026-06-29,2026-07-04,IronRail Intermodal,intermodal rail,standard,TN,TX,496.0,56058.2,Memphis,Dallas,0.30128205128205127,4,2026-07-03,2026-07-05,Medium,16889.329487179486,"carrier (+14 pts), timing (+12 pts)"
+SH-127052,2026-06-28,2026-07-11,IronRail Intermodal,intermodal rail,standard,NJ,CA,2875.0,48885.47,Newark,Los Angeles,0.30128205128205127,11,2026-07-10,2026-07-14,Medium,14728.31467948718,carrier (+13 pts)
+SH-127060,2026-06-29,2026-07-10,IronRail Intermodal,intermodal rail,standard,CA,GA,2280.0,39637.5,Los Angeles,Atlanta,0.30128205128205127,10,2026-07-09,2026-07-12,Medium,11942.067307692307,carrier (+14 pts)
+SH-127082,2026-06-29,2026-07-07,IronRail Intermodal,intermodal rail,standard,CO,MI,1362.0,39324.58,Denver,Detroit,0.30128205128205127,7,2026-07-06,2026-07-09,Medium,11847.790128205128,"carrier (+15 pts), timing (+7 pts)"
+SH-127126,2026-06-30,2026-07-09,IronRail Intermodal,intermodal rail,standard,NJ,CO,1910.0,38128.34,Newark,Denver,0.30128205128205127,9,2026-07-08,2026-07-11,Medium,11487.384487179486,carrier (+13 pts)
+SH-126993,2026-06-25,2026-07-07,IronRail Intermodal,intermodal rail,standard,NJ,WA,2824.0,26537.3,Newark,Seattle,0.30128205128205127,7,2026-07-06,2026-07-10,Medium,7995.212179487179,carrier (+14 pts)
+SH-127097,2026-06-30,2026-07-09,IronRail Intermodal,intermodal rail,standard,NJ,CO,1910.0,22375.34,Newark,Denver,0.30128205128205127,9,2026-07-08,2026-07-11,Medium,6741.288333333333,carrier (+13 pts)
+SH-127111,2026-06-30,2026-07-05,Prairie Lines,truckload,standard,MA,TX,1828.0,73158.05,Boston,Dallas,0.29615384615384616,5,2026-07-05,2026-07-06,Medium,21666.037884615387,"timing (+15 pts), promise tightness (+9 pts)"
+SH-126999,2026-06-25,2026-07-04,IronRail Intermodal,intermodal rail,standard,IL,AZ,1713.0,47717.84,Chicago,Phoenix,0.29615384615384616,4,2026-07-03,2026-07-06,Medium,14131.821846153845,"carrier (+15 pts), shipment size (+2 pts)"
+SH-127036,2026-06-26,2026-07-05,IronRail Intermodal,intermodal rail,standard,MA,TX,1828.0,45734.43,Boston,Dallas,0.29615384615384616,5,2026-07-04,2026-07-07,Medium,13544.427346153847,"carrier (+15 pts), timing (+7 pts)"
+SH-127117,2026-06-30,2026-07-02,Prairie Lines,truckload,standard,IL,OH,325.0,36218.69,Chicago,Columbus,0.29615384615384616,2,2026-07-02,2026-07-02,Medium,10726.304346153847,"carrier (+9 pts), promise tightness (+6 pts)"
+SH-126980,2026-06-25,2026-07-06,IronRail Intermodal,intermodal rail,standard,CA,OH,2329.0,27076.1,Los Angeles,Columbus,0.29615384615384616,6,2026-07-04,2026-07-08,Medium,8018.691153846154,carrier (+13 pts)
+SH-126933,2026-06-23,2026-07-01,IronRail Intermodal,intermodal rail,standard,CO,NC,1600.0,18790.57,Denver,Charlotte,0.29615384615384616,1,2026-06-30,2026-07-03,Medium,5564.899576923077,"carrier (+20 pts), lane (+5 pts)"
+SH-127084,2026-06-29,2026-07-10,IronRail Intermodal,intermodal rail,standard,CA,OH,2329.0,12270.79,Los Angeles,Columbus,0.29615384615384616,10,2026-07-08,2026-07-12,Medium,3634.041653846154,carrier (+14 pts)
+SH-127132,2026-06-30,2026-07-04,BlueRoute LTL,LTL,standard,MO,MI,759.0,6143.11,Kansas City,Detroit,0.29615384615384616,4,2026-07-03,2026-07-05,Medium,1819.3056538461537,"timing (+15 pts), lane (+3 pts)"
+SH-126975,2026-06-25,2026-07-04,IronRail Intermodal,intermodal rail,standard,MA,TX,1893.0,63706.73,Boston,Houston,0.2777777777777778,4,2026-07-03,2026-07-06,Medium,17696.31388888889,"carrier (+14 pts), timing (+5 pts)"
+SH-127047,2026-06-27,2026-07-02,IronRail Intermodal,intermodal rail,standard,MI,TN,735.0,46629.82,Detroit,Memphis,0.2777777777777778,2,2026-07-01,2026-07-03,Medium,12952.727777777778,"carrier (+21 pts), shipment size (+4 pts)"
+SH-127130,2026-06-30,2026-07-05,Prairie Lines,truckload,standard,AZ,GA,1874.0,36503.44,Phoenix,Atlanta,0.2184873949579832,5,2026-07-05,2026-07-06,Low,7975.541512605043,timing (+12 pts)
+SH-126953,2026-06-24,2026-06-30,IronRail Intermodal,intermodal rail,standard,TX,IL,950.0,23926.68,Dallas,Chicago,0.2184873949579832,0,2026-06-30,2026-07-01,Low,5227.677983193277,carrier (+16 pts)
+SH-127048,2026-06-27,2026-07-02,IronRail Intermodal,intermodal rail,standard,MO,TX,536.0,23137.76,Kansas City,Dallas,0.2184873949579832,2,2026-07-01,2026-07-03,Low,5055.308907563025,"carrier (+15 pts), carrier workload (+3 pts)"
+SH-127090,2026-06-29,2026-07-03,Coastal LTL,LTL,standard,NC,FL,773.0,5959.14,Charlotte,Miami,0.2184873949579832,3,2026-07-02,2026-07-04,Low,1301.996974789916,carrier (+14 pts)
+SH-127112,2026-06-30,2026-07-04,BlueRoute LTL,LTL,standard,TX,TN,572.0,856.67,Houston,Memphis,0.2184873949579832,4,2026-07-03,2026-07-04,Low,187.17159663865544,timing (+13 pts)
+SH-127058,2026-06-29,2026-07-03,Coastal LTL,LTL,standard,TX,TN,727.0,35538.82,Dallas,Nashville,0.18181818181818182,3,2026-07-02,2026-07-04,Low,6461.603636363637,carrier (+12 pts)
+SH-127081,2026-06-29,2026-07-07,BlueRoute LTL,LTL,standard,MA,TX,1828.0,9244.67,Boston,Dallas,0.18181818181818182,7,2026-07-06,2026-07-07,Low,1680.849090909091,"timing (+9 pts), carrier workload (+5 pts)"
+SH-127098,2026-06-30,2026-07-03,Prairie Lines,truckload,standard,GA,IL,695.0,54395.76,Atlanta,Chicago,0.16071428571428573,3,2026-07-02,2026-07-03,Low,8742.175714285715,weather (+2 pts)
+SH-127103,2026-06-30,2026-07-04,BlueRoute LTL,LTL,standard,IL,MO,487.0,4224.76,Chicago,Kansas City,0.16071428571428573,4,2026-07-03,2026-07-05,Low,678.9792857142858,timing (+10 pts)
+SH-127069,2026-06-29,2026-07-04,BlueRoute LTL,LTL,standard,WA,CA,1134.0,1473.16,Seattle,Los Angeles,0.16071428571428573,4,2026-07-03,2026-07-04,Low,236.75785714285718,timing (+8 pts)
+SH-127037,2026-06-26,2026-07-02,Prairie Lines,truckload,standard,OH,WA,2370.0,39969.31,Columbus,Seattle,0.15079365079365079,2,2026-07-01,2026-07-02,Low,6027.118174603174,promise tightness (+7 pts)
+SH-127033,2026-06-26,2026-07-01,IronRail Intermodal,intermodal rail,standard,NC,MI,596.0,11140.75,Charlotte,Detroit,0.15079365079365079,1,2026-06-30,2026-07-02,Low,1679.954365079365,carrier (+11 pts)
+SH-127106,2026-06-30,2026-07-07,BlueRoute LTL,LTL,standard,NJ,TX,1665.0,1457.96,Newark,Houston,0.1276595744680851,7,2026-07-06,2026-07-07,Low,186.12255319148935,timing (+5 pts)
+SH-127040,2026-06-27,2026-07-02,IronRail Intermodal,intermodal rail,standard,TX,TN,496.0,41029.02,Dallas,Memphis,0.12254901960784313,2,2026-07-01,2026-07-03,Low,5028.066176470587,carrier (+9 pts)
+SH-127092,2026-06-29,2026-07-05,Summit Freight,truckload,standard,FL,CO,2036.0,40385.61,Miami,Denver,0.12254901960784313,5,2026-07-04,2026-07-05,Low,4949.216911764705,"timing (+9 pts), promise tightness (+4 pts)"
+SH-127129,2026-06-30,2026-07-04,BlueRoute LTL,LTL,standard,IL,NC,693.0,16708.9,Chicago,Charlotte,0.12254901960784313,4,2026-07-03,2026-07-04,Low,2047.6593137254904,timing (+8 pts)
+SH-127087,2026-06-29,2026-07-07,BlueRoute LTL,LTL,expedited,GA,WA,2570.0,6399.7,Atlanta,Seattle,0.12254901960784313,7,2026-07-06,2026-07-07,Low,784.2769607843137,"timing (+8 pts), promise tightness (+3 pts)"
+SH-127030,2026-06-26,2026-07-05,BlueRoute LTL,LTL,standard,FL,AZ,2335.0,5801.04,Miami,Phoenix,0.12254901960784313,5,2026-07-04,2026-07-05,Low,710.9117647058823,timing (+5 pts)
+SH-127115,2026-06-30,2026-07-06,BlueRoute LTL,LTL,standard,TX,AZ,1196.0,4580.09,Houston,Phoenix,0.12254901960784313,6,2026-07-05,2026-07-06,Low,561.2855392156863,timing (+8 pts)
+SH-127051,2026-06-28,2026-07-05,SwiftParcel,parcel,standard,UT,MA,2470.0,676.42,Salt Lake City,Boston,0.12254901960784313,5,2026-07-04,2026-07-05,Low,82.89460784313725,"timing (+8 pts), promise tightness (+4 pts)"
+SH-127070,2026-06-29,2026-07-02,Prairie Lines,truckload,standard,CA,CO,979.0,28795.06,Los Angeles,Denver,0.1111111111111111,2,2026-07-01,2026-07-02,Low,3199.451111111111,promise tightness (+3 pts)
+SH-127100,2026-06-30,2026-07-08,BlueRoute LTL,LTL,standard,GA,AZ,1874.0,2541.74,Atlanta,Phoenix,0.09433962264150944,8,2026-07-07,2026-07-08,Low,239.78679245283018,timing (+4 pts)
+SH-127071,2026-06-29,2026-07-04,SwiftParcel,parcel,standard,MI,FL,1364.0,425.39,Detroit,Miami,0.09433962264150944,4,2026-07-03,2026-07-04,Low,40.1311320754717,timing (+7 pts)
+SH-126981,2026-06-25,2026-07-02,BlueRoute LTL,LTL,standard,TX,NJ,1665.0,2480.78,Houston,Newark,0.06878306878306878,2,2026-07-01,2026-07-02,Low,170.63566137566139,no single factor stands out
+SH-127054,2026-06-28,2026-07-04,SwiftParcel,parcel,standard,MA,TX,1828.0,518.52,Boston,Dallas,0.06878306878306878,4,2026-07-03,2026-07-04,Low,35.66539682539682,timing (+4 pts)
+SH-127127,2026-06-30,2026-07-06,NorthStar Parcel,parcel,expedited,OH,CA,2329.0,192.55,Columbus,Los Angeles,0.06878306878306878,6,2026-07-05,2026-07-06,Low,13.244179894179894,timing (+5 pts)
+SH-127099,2026-06-30,2026-07-04,Summit Freight,truckload,standard,GA,MN,1072.0,55039.19,Atlanta,Minneapolis,0.06206896551724138,4,2026-07-03,2026-07-04,Low,3416.2255862068964,timing (+5 pts)
+SH-127053,2026-06-28,2026-07-02,BlueRoute LTL,LTL,standard,MI,MA,722.0,6212.64,Detroit,Boston,0.06206896551724138,2,2026-07-01,2026-07-02,Low,385.6121379310345,no single factor stands out
+SH-127018,2026-06-26,2026-06-30,BlueRoute LTL,LTL,expedited,GA,MN,1072.0,3990.77,Atlanta,Minneapolis,0.06206896551724138,0,2026-06-30,2026-06-30,Low,247.70296551724138,promise tightness (+2 pts)
+SH-127109,2026-06-30,2026-07-04,AeroCargo,air,standard,MA,WA,2933.0,2147.25,Boston,Seattle,0.06206896551724138,4,2026-07-03,2026-07-04,Low,133.27758620689656,"timing (+5 pts), promise tightness (+2 pts)"
+SH-127113,2026-06-30,2026-07-07,NorthStar Parcel,parcel,standard,GA,CA,2280.0,813.56,Atlanta,Los Angeles,0.06206896551724138,7,2026-07-06,2026-07-07,Low,50.49682758620689,timing (+5 pts)
+SH-127080,2026-06-29,2026-07-01,SwiftParcel,parcel,expedited,MO,TN,558.0,417.09,Kansas City,Nashville,0.02631578947368421,1,2026-06-30,2026-07-01,Low,10.976052631578947,no single factor stands out
+SH-127121,2026-06-30,2026-07-03,Summit Freight,truckload,standard,TX,TN,785.0,104836.37,Houston,Nashville,0.0211864406779661,3,2026-07-02,2026-07-03,Low,2221.109533898305,no single factor stands out
+SH-127101,2026-06-30,2026-07-02,Summit Freight,truckload,standard,IL,MI,279.0,42203.53,Chicago,Detroit,0.0211864406779661,2,2026-07-02,2026-07-02,Low,894.1425847457626,no single factor stands out
+SH-127089,2026-06-29,2026-07-03,NorthStar Parcel,parcel,expedited,OH,FL,1173.0,704.59,Columbus,Miami,0.0211864406779661,3,2026-07-01,2026-07-03,Low,14.927754237288136,no single factor stands out
+SH-127094,2026-06-30,2026-07-03,Summit Freight,truckload,expedited,TX,GA,849.0,23295.46,Dallas,Atlanta,0.012195121951219513,3,2026-07-01,2026-07-03,Low,284.0909756097561,no single factor stands out
+SH-126998,2026-06-25,2026-07-01,SwiftParcel,parcel,standard,CA,MN,1795.0,126.95,Los Angeles,Minneapolis,0.012195121951219513,1,2026-06-30,2026-07-01,Low,1.5481707317073172,no single factor stands out
+SH-127108,2026-06-30,2026-07-02,Summit Freight,truckload,standard,IL,MN,419.0,75647.51,Chicago,Minneapolis,0.007518796992481203,2,2026-07-01,2026-07-02,Low,568.7782706766917,no single factor stands out
+SH-127107,2026-06-30,2026-07-03,AeroCargo,air,standard,AZ,MN,1508.0,26271.73,Phoenix,Minneapolis,0.007518796992481203,3,2026-07-02,2026-07-03,Low,197.53180451127818,no single factor stands out
+SH-127128,2026-06-30,2026-07-02,AeroCargo,air,standard,GA,FL,716.0,5549.66,Atlanta,Miami,0.007518796992481203,2,2026-07-01,2026-07-02,Low,41.72676691729323,no single factor stands out
+SH-127055,2026-06-29,2026-07-03,SwiftParcel,parcel,standard,MN,GA,1072.0,625.62,Minneapolis,Atlanta,0.007518796992481203,3,2026-07-02,2026-07-03,Low,4.70390977443609,no single factor stands out
+SH-126984,2026-06-25,2026-07-03,NorthStar Parcel,parcel,standard,PA,CA,2818.0,476.68,Philadelphia,Los Angeles,0.007518796992481203,3,2026-07-01,2026-07-03,Low,3.5840601503759397,no single factor stands out
+SH-127059,2026-06-29,2026-07-03,NorthStar Parcel,parcel,standard,TX,NC,1096.0,474.39,Dallas,Charlotte,0.007518796992481203,3,2026-07-02,2026-07-03,Low,3.5668421052631576,no single factor stands out
+SH-127009,2026-06-26,2026-07-03,Summit Freight,truckload,standard,PA,CA,2818.0,57918.11,Philadelphia,Los Angeles,0.0,3,2026-07-02,2026-07-03,Low,0.0,no single factor stands out
+SH-127056,2026-06-29,2026-07-02,AeroCargo,air,standard,MO,CA,1598.0,9603.73,Kansas City,Los Angeles,0.0,2,2026-07-01,2026-07-02,Low,0.0,no single factor stands out
+SH-127061,2026-06-29,2026-07-02,Summit Freight,truckload,standard,NC,MI,596.0,39520.35,Charlotte,Detroit,0.0,2,2026-07-01,2026-07-02,Low,0.0,no single factor stands out
+SH-127062,2026-06-29,2026-07-02,AeroCargo,air,standard,CO,WA,1203.0,40597.74,Denver,Seattle,0.0,2,2026-07-01,2026-07-02,Low,0.0,no single factor stands out
+SH-127063,2026-06-29,2026-07-03,NorthStar Parcel,parcel,standard,TX,NC,1096.0,273.91,Dallas,Charlotte,0.0,3,2026-07-02,2026-07-03,Low,0.0,no single factor stands out
+SH-127072,2026-06-29,2026-07-03,SwiftParcel,parcel,standard,NJ,GA,873.0,260.51,Newark,Atlanta,0.0,3,2026-07-02,2026-07-03,Low,0.0,no single factor stands out
+SH-127078,2026-06-29,2026-07-02,AeroCargo,air,standard,WA,TX,1982.0,4592.29,Seattle,Dallas,0.0,2,2026-07-01,2026-07-02,Low,0.0,no single factor stands out
+SH-127083,2026-06-29,2026-07-03,Summit Freight,truckload,expedited,GA,AZ,1874.0,38469.39,Atlanta,Phoenix,0.0,3,2026-07-02,2026-07-03,Low,0.0,no single factor stands out
+SH-127086,2026-06-29,2026-07-03,NorthStar Parcel,parcel,standard,MN,TX,1019.0,272.57,Minneapolis,Dallas,0.0,3,2026-07-02,2026-07-03,Low,0.0,no single factor stands out
+SH-127088,2026-06-29,2026-07-02,Summit Freight,truckload,standard,IL,GA,695.0,73820.24,Chicago,Atlanta,0.0,2,2026-07-01,2026-07-02,Low,0.0,no single factor stands out
+SH-127091,2026-06-29,2026-07-02,AeroCargo,air,standard,MA,TX,1893.0,7045.07,Boston,Houston,0.0,2,2026-07-01,2026-07-02,Low,0.0,no single factor stands out
+SH-127119,2026-06-30,2026-07-03,NorthStar Parcel,parcel,expedited,TX,TN,785.0,344.26,Houston,Nashville,0.0,3,2026-07-02,2026-07-03,Low,0.0,no single factor stands out
+SH-127122,2026-06-30,2026-07-03,AeroCargo,air,standard,FL,MI,1364.0,4047.8,Miami,Detroit,0.0,3,2026-07-02,2026-07-03,Low,0.0,no single factor stands out
+SH-127123,2026-06-30,2026-07-02,AeroCargo,air,standard,PA,GA,785.0,4836.97,Philadelphia,Atlanta,0.0,2,2026-07-01,2026-07-02,Low,0.0,no single factor stands out
+SH-127124,2026-06-30,2026-07-03,AeroCargo,air,standard,CA,MO,1598.0,4348.68,Los Angeles,Kansas City,0.0,3,2026-07-02,2026-07-03,Low,0.0,no single factor stands out
