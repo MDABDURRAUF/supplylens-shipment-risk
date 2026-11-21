@@ -3,6 +3,8 @@
 **Shipment delay and delivery-risk prediction for US freight: which shipments will be late, when they will
 really arrive, why, and which carrier to use next time.**
 
+**[Try the live dashboard](https://supplylens-shipment-risk.streamlit.app)** — runs in your browser on simulated data, nothing to install.
+
 For every shipment the model gives two things:
 
 1. **A late probability**, calibrated so that a predicted 30% means about three in ten such shipments are late.
